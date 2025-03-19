@@ -83,6 +83,9 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 - Reyhan Gravatar [Gravatar](https://gravatar.com/orgsowner)
 - Reyhan about.me Page [about.me](https://about.me/organization_owner)
 
+## How so?
+This was created with little cigarettes by fearfully and wonderfully made.
+Just because you're near or here after realize as recognize and know, and the difference in-between "we" or "us" or each others.
 
 ## Immediately call or reply response?
 Reyhan Phone: +6281389648797
