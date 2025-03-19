@@ -23,7 +23,8 @@ This tool is designed to translate standard characters, numbers, and symbols int
 You can checkout view the file directly:
 [PDF](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.ipynb)
 [DOCX](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.docx)
-[XLSX](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.xlsx)
+[JPG](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.xlsx)
+[PDF](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.jpg)
 
 ### Summary
 
