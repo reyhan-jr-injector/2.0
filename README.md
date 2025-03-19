@@ -20,7 +20,7 @@ The **Reyhan Jr. Injector 2.0** is a Tools that provides a system for encoding o
 
 This tool is designed to translate standard characters, numbers, and symbols into a set of custom codes, which might be used for specialized applications or encryption purposes. The notebook is well-structured and provides clear mappings that can be easily referenced.
 
-You can view the file directly [here](https://github.com/house-of-git/house-of-git.github.io/blob/master/Reyhan%20Jr.%20Injector%202.0.ipynb).
+You can view the file directly [here](https://github.com/reyhan-jr-injector/reyhan-jr-injector.github.io/blob/master/Reyhan%20Jr.%20Injector%202.0.ipynb).
 
 ### Summary
 
@@ -58,11 +58,11 @@ Reyhan Jr. Injector 2.0 Auto  Injecting, creating environment, initialisation th
 ## How to use, for example at Jupyter Notebook:
 1. Clone the repository:
     ```sh
-    git clone https://github.com/house-of-git/house-of-git.github.io.git
+    git clone https://github.com/reyhan-jr-injector/reyhan-jr-injector.github.io.git
     ```
 2. Navigate to the repository directory:
     ```sh
-    cd house-of-git.github.io
+    cd reyhan-jr-injector.github.io
     ```
 3. Open the Jupyter Notebook file using Jupyter Notebook or JupyterLab or supporting opening ".ipynb" :
     ```sh
