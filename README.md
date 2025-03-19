@@ -20,7 +20,7 @@ The **Reyhan Jr. Injector 2.0** is a Tools that provides a system for encoding o
 
 This tool is designed to translate standard characters, numbers, and symbols into a set of custom codes, which might be used for specialized applications or encryption purposes. The notebook is well-structured and provides clear mappings that can be easily referenced.
 
-You can view the file directly [here]([https://github.com/reyhan-jr-injector/reyhan-jr-injector.github.io/blob/master/Reyhan%20Jr.%20Injector%202.0.ipynb])
+You can view the file directly [here](https://github.com/reyhan-jr-injector/reyhan-jr-injector.github.io/blob/master/Reyhan%20Jr.%20Injector%202.0.ipynb)
 
 ### Summary
 
