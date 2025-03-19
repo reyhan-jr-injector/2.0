@@ -21,11 +21,11 @@ The **Reyhan Jr. Injector 2.0** is a Tools that provides a system for encoding o
 This tool is designed to translate standard characters, numbers, and symbols into a set of custom codes, which might be used for specialized applications or encryption purposes. The notebook is well-structured and provides clear mappings that can be easily referenced.
 
 You can checkout view the file directly:
-[here](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.ipynb)
-[DOCX](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.docx)
-[XLSX](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.xlsx)
-[JPG](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.jpg)
-[PYTHON](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.ipyb)
+[here](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.ipynb),
+[DOCX](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.docx),
+[XLSX](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.xlsx),
+[JPG](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.jpg),
+[PYTHON](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.ipynb),
 
 ### Summary
 
