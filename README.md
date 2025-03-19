@@ -1,6 +1,9 @@
 # Repository Information
-
 These may so executed and contains of folders, file, and system configuration files.
+```
+/
+```
+
 
 ## Repository Overview
 
@@ -70,7 +73,7 @@ Reyhan Jr. Injector 2.0 Auto  Injecting, creating environment, initialisation th
     ```sh
     cd reyhan-jr-injector.github.io
     ```
-3. Open the Jupyter Notebook file using Jupyter Notebook or JupyterLab or supporting opening ".ipynb" :
+3. Open the Jupyter Notebook file using Jupyter Notebook or JupyterLab or python or supporting opening ".ipynb" :
     ```sh
     jupyter notebook "Reyhan Jr. Injector 2.0.ipynb"
     ```
