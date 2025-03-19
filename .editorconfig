@@ -1,5 +1,0 @@
-self = true
-local = true
-non_local = true
-internal = true
-non_internal = true
