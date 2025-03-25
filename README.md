@@ -197,8 +197,23 @@ Symbolic = 115 Row
 | 114    | >                                                            | 5f                   |
 | 115    | (                                                             | Gf                   |
 ```
+Here is the sample of converted text using the Reyhan Jr. Injector 2.0 conversion tables:
+
+**Sample Text:** These sample questions and answers can give you a good starting point to understand the content of the README.md
+
+### Conversion Using Reyhan Jr. Injector 2.0:
+
+**Results Converted Text:** 
+```
+T5 h8 e0 s3 FF s1 a8 m5 p2 l5 e0 FF q5 u8 e0 s3 t5 i9 o9 n7 s3 FF a8 n7 d9 FF a1 n7 s3 w8 e0 r5 s3 FF c4 a8 n7 FF g5 i9 v8 e0 FF y8 o9 u8 FF a1 FF g5 o9 o9 d9 FF s3 t5 a8 r5 t5 i9 n7 g5 FF p2 o9 i9 n7 t5 FF t5 o9 FF u8 n7 d9 e0 r5 s3 t5 a8 n7 d9 FF t5 h8 e0 FF c4 o9 n7 t5 e0 n7 t5 FF o9 f9 FF t5 h8 e0 FF R5 E0 A8 D9 M5 E0 FF D9
+```
+
+This conversion uses the tables provided in the README.md file to map each character to its corresponding code.
+```code
 Transform or translating or decoding your any documents into AI-ready-set of multi-formats with our powerful document or else 
 by processing with these tools on platform.
+```
+
 
 # Repository Information
 These may so executed and contains of folders, file, and system configuration files.
