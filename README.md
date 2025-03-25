@@ -1,3 +1,203 @@
+# Reyhan Jr. Injector 2.0 by Reyhan alias Reyhan Jr.
+
+```code
+Name Long = Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0 Name Short = Reyhan Jr. 2.0
+Alphabet = 54 Row
+
+| Number | Function | Converter / Exchange |
+| ------ | -------- | -------------------- |
+| 1      | A        | a1                   |
+| 2      | B        | a2                   |
+| 3      | C        | a3                   |
+| 4      | D        | a4                   |
+| 5      | E        | a5                   |
+| 6      | F        | a6                   |
+| 7      | G        | a7                   |
+| 8      | H        | a8                   |
+| 9      | I        | a9                   |
+| 10     | J        | a0                   |
+| 11     | K        | b1                   |
+| 12     | L        | b2                   |
+| 13     | M        | b3                   |
+| 14     | N        | b4                   |
+| 15     | O        | b5                   |
+| 16     | P        | b6                   |
+| 17     | Q        | b7                   |
+| 18     | R        | a8                   |
+| 19     | S        | b9                   |
+| 20     | T        | b0                   |
+| 21     | U        | c1                   |
+| 22     | V        | c2                   |
+| 23     | W        | c3                   |
+| 24     | X        | c4                   |
+| 25     | Y        | c5                   |
+| 26     | Z        | b6                   |
+| 27     | a        | 11                   |
+| 28     | b        | 22                   |
+| 29     | c        | s3                   |
+| 30     | d        | h4                   |
+| 31     | e        | t5                   |
+| 32     | f        | x6                   |
+| 33     | g        | a7                   |
+| 34     | h        | j8                   |
+| 35     | i        | 9                    |
+| 36     | j        | v0                   |
+| 37     | k        | k1                   |
+| 38     | m        | m2                   |
+| 39     | n        | m3                   |
+| 40     | o        | c4                   |
+| 41     | p        | m5                   |
+| 42     | q        | d6                   |
+| 43     | r        | n7                   |
+| 44     | s        | f8                   |
+| 45     | t        | d9                   |
+| 46     | u        | e0                   |
+| 47     | u        | z1                   |
+| 48     | w        | p2                   |
+| 49     | v        | q3                   |
+| 50     | x        | c4                   |
+| 51     | y        | r5                   |
+| 52     | z        | d6                   |
+| 53     | Space    | FF                   |
+| 54     | Blank    | CC                   |
+
+Numeric = 11 Row
+
+| Number | Function | Converter / Exchange |
+| ------ | -------- | -------------------- |
+| 1      | 0        | WW                   |
+| 2      | 1        | GG                   |
+| 3      | 2        | MM                   |
+| 4      | 3        | JJ                   |
+| 5      | 4        | PP                   |
+| 6      | 5        | RR                   |
+| 7      | 6        | EE                   |
+| 8      | 7        | BB                   |
+| 9      | 8        | AA                   |
+| 10     | 9        | XX                   |
+| 11     | 10       | W                    |
+
+Symbolic = 115 Row
+
+| Number | Function                                                       | Converter / Exchange |
+| ------ | -------------------------------------------------------------- | -------------------- |
+| 1      | Alphabet/Word/QWORD/DWORD/Float/String/Text/Array of String     | 3v                   |
+| 2      | Numeric/Number/Decimal/Bytes/HEX/BIN/Array of Byte              | 5w                   |
+| 3      | Symbolic/Symbol/View/View Physical Address/View Memory Address | 7x                   |
+| 4      | Algorithm/Array of Interger/64-bit Interger/Float/Grouped/All/Float | 8y                   |
+| 5      | Tab/Labeling/Tagging/Name/Pin/Tracking/Following/Registers/Flags | 9c                   |
+| 6      | Caps Lock/Options/Optional/Custom                               | hd                   |
+| 7      | Shift/Settings/Debug/Kernel Tool/File/Process List              | 8c                   |
+| 8      | Ctrl/Control/Manage/Organize                                    | H                    |
+| 9      | Cmd/Command/Prompt                                               | Gc                   |
+| 10     | Alt/Alternative                                                | Jg                   |
+| 11     | Esc/Escape                                                     | Zl                   |
+| 12     | Enter/Ok/Select/Set Process/Set Physical Address/Click            | I                    |
+| 13     | Insert/Converter/Exchange/Set Memory Physical Address           | N                    |
+| 14     | Home/Prt Sc/ Sys rq                                            | 4L                   |
+| 15     | Page Up/Seen/Exist/Show                                          | 5m                   |
+| 16     | Page Down/Unseen/Not Exist/Hide                                 | 7n                   |
+| 17     | End/Pause Break                                                  | So                   |
+| 18     | Delete/Backspace/Remove                                          | bp                   |
+| 19     | Up/↑/Northeast/↗                                                  | Jq                   |
+| 20     | Down/↓/Southwest/↙                                                  | Ir                   |
+| 21     | Right/→/Southeast/↘                                                  | Jts                  |
+| 22     | Left/←/Northwest/↖                                                  | 3t                   |
+| 23     | New Line/Center/Centro/↲                                                  | Bu                   |
+| 24     | △                                                       | ZB                   |
+| 25     | ◁ | 8C                   |
+| 26     | ▷ | 4D                   |
+| 27     | ▽ | EE                   |
+| 28     | Y                                                             | Xz                   |
+| 29     | -                                                             | IX                   |
+| 30     | ./!/…/$/@/[].[{.}/!!!                                  | 4Y                   |
+| 31     | ,                                                             | Rz                   |
+| 32     | .                                                             | Sa                   |
+| 33     | Screen/Keyboard/Mouse/Headphone/Magnifying Glass Virtual      | Sb                   |
+| 34     | /                                                             | Ad                   |
+| 35     | @                                                             | Sc                   |
+| 36     | $                                                             | Cn                   |
+| 37     | %                                                             | De                   |
+| 38     | &                                                             | Eb                   |
+| 39     | '                                                             | Fo                   |
+| 40     | +                                                             | Gf                   |
+| 41     | =                                                             | Fy                   |
+| 42     | )                                                             | La                   |
+| 43     | /                                                             | 9                    |
+| 44     | *                                                             | Fz                   |
+| 45     | "                                                             | 2h                   |
+| 46     | 0-9                                                          | Vi                   |
+| 47     | !                                                             | Nj                   |
+| 48     | ?                                                             | Hk                   |
+| 49     | )                                                             | Hm                   |
+| 50     | ?                                                             | Qi                   |
+| 51     | \                                                             | Ku                   |
+| 53     | "                                                           | Ep                   |
+| 54     | :                                                             | Ut                   |
+| 55     | ;                                                             | Js                   |
+| 56     | '                                                           | Wk                   |
+| 57     | Scan/Exact Value/Open/Searching/First Scan                       | DD                   |
+| 58     | /                                                             | N                    |
+| 59     | +                                                             | Bw                   |
+| 60     | ,                                                             | 1A                   |
+| 61     | Browse/Load Address/Yes/New/New Window/Attach                 | 4H                   |
+| 62     | History/Experience/Auto Assemble                               | It                   |
+| 63     | .                                                             | Lz                   |
+| 64     | Pause/Hold/Block/Terminate                                     | IX                   |
+| 65     | Stop/Speed Up/Close/Cancel/No/Exit/Format                      | L                    |
+| 66     | Forward/Analyze/Add to Codelist/Alignment                       | Vn                   |
+| 67     | Backward/Undo/Previous                                         | DD                   |
+| 68     | Record/Record Physical Address/Auto Save/Saved Address          | Fp                   |
+| 69     | Online/Connect/Connected/Link/Url                               | Ss                   |
+| 70     | Offline/Disconnect/Disconnected                               | Tt                   |
+| 71     | Streaming/Live Streaming/Internet/Network/Communication          | Uu                   |
+| 72     | Cut/Copy/Paste/Clear/Short/Filter/Format/Contents/Erase         | Ty                   |
+| 73     | Read/Address/Editor/Modify/Executable/Execute/Importing           | Az                   |
+| 74     | Write/Writable/Repacked/Replicate/Duplicate Address             | Vy                   |
+| 75     | Inject/Inject Physical Address/Inject Physical Memory Address/Render | Jx                   |
+| 76     | Replace/Change/Change Physical Address                         | Bw                   |
+| 77     | Lock/Freeze Address/Backup/Patch                               | Av                   |
+| 78     | Value/Address/Value Memory Address/Value Physical Address       | Lu                   |
+| 79     | #1                                                            | Et                   |
+| 80     | F1                                                            | Js                   |
+| 81     | F2                                                            | R                    |
+| 82     | F4                                                            | Q                    |
+| 83     | F5                                                            | Ip                   |
+| 84     | F6                                                            | D                    |
+| 85     | F7                                                            | mN                   |
+| 86     | F8                                                            | mM                   |
+| 87     | F9                                                            | J.L.                   |
+| 88     | F10                                                           | oQ                   |
+| 89     | F11                                                           | Zl                   |
+| 90     | F12                                                           | I                    |
+| 91     | Hint/Extract/Printing/Translating/Decoding/Unpacked/Exporting   | H                    |
+| 92     | Code/Codes/Coding/Language/Function/Programming Language       | G                    |
+| 93     | In/Input/Inside/Zoom In/Find Assembly Code/Find Memory         | Je                   |
+| 94     | Out/Output/Outside/Zoom Out                                     | Me                   |
+| 95     | Result/Rescan/Next Scan/Undo Scan/Index/Location/Path/Find/Base | Nco                  |
+| 96     | Menu/Table Address/AllocationBase/Auto Run/Opcode/Process ID    | Ic                   |
+| 97     | Unlock/Unfreeze/Address Position                               | Jb                   |
+| 98     | Emoji/Emoticon/Emote/Logo                                     | Ya                   |
+| 99     | .                                                             | Yv                   |
+| 100    | >                                                             | Nt                   |
+| 101    | )                                                             | Dt                   |
+| 102    | \                                                            | Ks                   |
+| 103    | "                                                             | Ir                   |
+| 104    | '                                                             | Rp                   |
+| 105    | *                                                             | Sp                   |
+| 106    | o                                                             | So                   |
+| 107    | %                                                             | In                   |
+| 108    | )                                                             | Nm                   |
+| 109    | (                                                             | L                   |
+| 110    | =                                                             | 2K                   |
+| 111    | -                                                             | Jn                   |
+| 112    | !                                                             | 21                   |
+| 113    | H                                                             | Kh                   |
+| 114    | >                                                            | 5f                   |
+| 115    | (                                                             | Gf                   |
+```
+
+
 # Repository Information
 These may so executed and contains of folders, file, and system configuration files.
 ```
