@@ -224,7 +224,7 @@ These may so executed and contains of folders, file, and system configuration fi
 
 ## Repository Overview
 
-This repository includes various folders and configuration files that serve different purposes. The primary languages used in this repository are HTML and Jupyter Notebook.
+This repository includes various folders and configuration files that serve different purposes. The primary languages used in this repository are HTML and Jupyter Notebook or if else feel compatible with own your.
 
 ## Project Files
 
