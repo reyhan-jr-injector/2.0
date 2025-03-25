@@ -227,6 +227,10 @@ Translate or decoding one-to-another of languages without additional act with Re
 These may so executed and contains of folders, file, and system configuration files.
 ```
 /
+docs/
+dist/
+core/
+index-of/
 ```
 
 
