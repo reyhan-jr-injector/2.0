@@ -234,9 +234,10 @@ The translated sequence for "Hello World!" is:
 Sb 5m IX IX 5w FF Js 5w 9c IX G 4D
 ```
 
-### Detailed Script to Translate
+### Detailed Script to Translate uses Python :
 
-```python name=translate_hello_world.py
+```code
+name=translate_hello_world.py
 # Define the symbolic conversion table
 symbolic_conversion = {
     'H': 'Sb', 'e': '5m', 'l': 'IX', 'o': '5w',
@@ -246,8 +247,10 @@ symbolic_conversion = {
 
 def translate_text(text, conversion_table):
     return ' '.join([conversion_table.get(char, char) for char in text])
+```
 
 # Example symbolic sequence
+```code
 symbolic_sequence = "Hello World!"
 translated_symbolic_sequence = translate_text(symbolic_sequence, symbolic_conversion)
 
