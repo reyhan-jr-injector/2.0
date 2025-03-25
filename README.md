@@ -213,7 +213,7 @@ This conversion uses the tables provided in the README.md file to map each chara
 Transform or translating or decoding your any documents into AI-ready-set of multi-formats with our powerful document or else 
 by processing with these tools on platform.
 ```
-
+Translate or decoding one-to-another of languages without additional act with Reyhan Jr. Injector 2.0 by Reyhan alias Reyhan Jr.
 
 # Repository Information
 These may so executed and contains of folders, file, and system configuration files.
