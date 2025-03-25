@@ -309,6 +309,13 @@ Reyhan Jr. Injector 2.0 Auto  Injecting, creating environment, initialisation th
     ```
 4. Run the cells in the notebook to verify that it works accurate and correctly.
 
+## Additional features
+Features
+```code
+- World Date and Time Synchrony
+- Aku bisa calculator dan coding...
+```
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
