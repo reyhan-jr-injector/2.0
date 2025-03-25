@@ -197,7 +197,8 @@ Symbolic = 115 Row
 | 114    | >                                                            | 5f                   |
 | 115    | (                                                             | Gf                   |
 ```
-
+Transform or translating or decoding your any documents into AI-ready-set of multi-formats with our powerful document or else 
+by processing with these tools on platform.
 
 # Repository Information
 These may so executed and contains of folders, file, and system configuration files.
