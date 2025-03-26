@@ -642,6 +642,7 @@ dist/
 config/
 docs/
 script/
+index-of/
 
 ## Repository Overview
 
