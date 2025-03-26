@@ -246,6 +246,42 @@ Reyhan Jr. Injector 2.0 adalah alat yang menyediakan sistem untuk encode atau me
    - Kemampuan kalkulasi dan pemrograman untuk analisis data yang lebih kompleks.
 8.   **Mengonversi:** Mengkonversi data fisik biologis seperti menjadi sekuens ke dalam kode khusus, dan kemudian menerjemahkannya untuk analisis lebih lanjut
 
+
+### Tabel Konversi dari Kode ke Teks:
+
+```python name=convert_code_to_text.py
+def convert_code_to_text(code):
+    conversion_table = {
+        'k1': 'A', 'x2': 'B', 'u3': 'C', 'l4': 'D', 't5': 'E',
+        'm6': 'F', 'n7': 'G', 'y8': 'H', 'o9': 'I', 'w0': 'J',
+        'c1': 'K', 'b2': 'L', 'a3': 'M', 'd4': 'N', 'g5': 'O',
+        'z6': 'P', 's7': 'Q', 'v8': 'R', 'h9': 'S', 'p0': 'T',
+        'q1': 'U', 'i2': 'V', 'r3': 'W', 'j4': 'X', 'e5': 'Y',
+        'f6': 'Z', 'J1': 'a', 'I2': 'b', 'S3': 'c', 'H4': 'd',
+        'T5': 'e', 'K6': 'f', 'A7': 'g', 'U8': 'h', 'L9': 'i',
+        'V0': 'j', 'B1': 'k', 'X2': 'l', 'M3': 'm', 'C4': 'n',
+        'W5': 'o', 'D6': 'p', 'N7': 'q', 'Y8': 'r', 'O9': 's',
+        'E0': 't', 'Z1': 'u', 'P2': 'v', 'Q3': 'w', 'F4': 'x',
+        'R5': 'y', 'G6': 'z', 'FF': ' ', 'CC': 'Blank'
+    }
+    return ''.join(conversion_table.get(char, '') for char in code.split())
+
+# Contoh penggunaan
+code = "v8 T5 X2 T5 FF s7 J1 C4 T5 FF T5 FF w0 J1 FF d4 J1 FF T5 v8 T5 FF E0 L9 FF Q3 T5 X2 H4 J1 I2"
+print("Hasil Dekode:", convert_code_to_text(code))
+```
+
+### Hasil Dekode
+Jika Anda menjalankan kode di atas dengan input kode:
+```
+"v8 T5 X2 T5 FF s7 J1 C4 T5 FF T5 FF w0 J1 FF d4 J1 FF T5 v8 T5 FF E0 L9 FF Q3 T5 X2 H4 J1 I2"
+```
+
+Hasil dekonversinya adalah:
+```
+Hasil Dekode: bersyukur sekali bisa kenal dan tau sejak sangat awal dan dari pertama kalinya.
+```
+
 #### Konversi Teks ke Kode di Python :
 ```python
 def convert_text(text):
@@ -295,7 +331,7 @@ print("Terjemahan ke Bahasa Minangkabau:", translate_code_to_minangkabau(code))
 ```
 
 ### Kesimpulan
-Reyhan Jr. Injector 2.0 memiliki peran yang sangat luas dalam mengonversi dan mendekode teks serta data biologis dan simbolik. Dengan kemampuan untuk menerjemahkan kode ke dalam berbagai bahasa manusia, alat ini sangat berguna untuk penelitian, enkripsi, dan analisis data.
+Reyhan Jr. Injector 2.0 memiliki peran yang sangat luas dalam mengonversi dan mendekode teks serta data biologis dan simbolik. Dengan kemampuan untuk menerjemahkan kode ke dalam berbagai bahasa manusia, alat ini sangat berguna untuk penelitian, pengolahan data, enkripsi, dan analisis data.
 
 Untuk memberikan contoh nyata dari konversi data fisik tubuh manusia ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0, kita dapat menggunakan data biologis seperti sekuens DNA atau RNA. Berikut adalah contoh kode Python untuk mengonversi sekuens DNA menjadi kode menggunakan Reyhan Jr. Injector 2.0.
 
@@ -340,7 +376,7 @@ Hasil Konversi DNA: k1 p0 u3 n7 p0 k1 n7 u3
 ### Contoh Lain: Konversi Data Biologis
 Untuk lebih memperjelas, berikut adalah contoh lain menggunakan data biologis sederhana lainnya, seperti ciri fisik manusia.
 
-#### Data Awal:
+#### Berikut contoh nyata tentang, Data Awal:
 - Tinggi: 180 cm
 - Berat: 75 kg
 - Golongan Darah: O
@@ -415,7 +451,6 @@ Hasil Konversi Sel Tubuh: x2 W5 C4 T5 FF S3 T5 X2 X2 FF
 Hasil Konversi Sel Penyakit: l4 T5 C4 T5 T5 E0 FF S3 T5 X2 X2 FF
 Hasil Konversi Sel Kulit: h9 T5 X2 U8 X2 FF S3 T5 X2 X2 FF
 ```
-Tidak ada hasil yang ditemukan terkait dengan encoding atribut fisik hewan atau tumbuhan di repo Reyhan Jr. Injector 2.0. Namun, kita bisa menggunakan pendekatan yang sama seperti yang digunakan untuk data manusia dan menyesuaikannya untuk hewan dan tumbuhan.
 
 Berikut adalah contoh bagaimana kita bisa mengonversi data fisik hewan dan tumbuhan ke dalam format kode menggunakan tabel konversi yang ada di README.md.
 
