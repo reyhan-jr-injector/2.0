@@ -233,10 +233,11 @@ This script will translate "Hello World!" using the symbolic conversion table an
 
 ## Example of converted or translating of Text.
 Here is the sample of converted text using the Reyhan Jr. Injector 2.0 conversion tables:
-```code
-sample: Saya Reyhan alias Reyhan Jr.
-results: h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq
-```
+
+**Sample Text**: Saya Reyhan alias Reyhan Jr.
+
+**Results Convert** : h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq
+
 
 This conversion uses the tables provided in the README.md file to map each character to its corresponding code.
 
