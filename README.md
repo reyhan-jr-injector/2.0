@@ -2,6 +2,8 @@
 by Reyhan alias Reyhan Jr.
 
 ## Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
+Reyhan Jr. Injector 2.0, now
+pairing with AI-Ready and Machines-Ready.
 
 ```code
 Name Long = Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
@@ -1073,26 +1075,6 @@ This repository includes various folders and configuration files that serve diff
 
 Self
 
-
-### Summary
-
-The file name call "Reyhan Jr. Injector 2.0" that appears same folder to be focused on a system for encoding or converting data. Here is a summary of its contents:
-
-- **Title and Description:**
-  - Name Long: Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
-  - Name Short: Reyhan Jr. Injector 2.0
-
-- **Alphabet Conversion Table:**
-  - Contains a table that maps letters of the alphabet to specific codes (e.g., `A -> k1`, `B -> x2`, `C -> u3`).
-
-- **Numeric Conversion Table:**
-  - Contains a table that maps numbers to specific codes (e.g., `0 -> WW`, `1 -> GG`, `2 -> MM`).
-
-- **Symbolic Conversion Table:**
-  - Contains a table that maps various symbols and functions to specific codes (e.g., `Alphabet/Word/QWORD/DWORD/Float/String/Text/Array of String -> 5v`, `Numeric/Number/Decimal/Byte/HEX/BIN/Array of Byte -> 6w`).
-
-The notebook provides a systematic way to convert various characters, numbers, and symbols into specific codes. The conversion tables are organized into rows and columns for easy reference.
-
 ### Quality and Utility
 
 This file was made wonderfully to be consistent with excellent quality. It works as a HEX translator or translates HEX into a custom dialect language. It is simple and wonderful, showcasing excellent quality and consistency, making it a useful tool for HEX translation or converting data into a custom dialect. It is simple yet wonderfully crafted to serve its purpose effectively.
@@ -1105,7 +1087,17 @@ results: h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9  
 
 ## How it work before started?
 ```code
-Reyhan Jr. Injector 2.0 Auto  Injecting, creating environment, initialisation then starting exchange or converting and do first scan onto translating, decoding, recognize, and know earlier since first time.
+- Creating Environtment for Reyhan Jr. Injector
+- Building Workdesk
+```
+
+## Main Works Reyhan Jr. Injector 2.0
+Reyhan Jr. Injector 2.0 How Works,
+```code
+1. Injection physical address and physical code.
+2. Starting first scanning.
+3. View browse physical address and code as HEX by running by realtime
+4. AI-ready and Machines-ready for todo translating, decoding, listening, recognize, observe, understanding, knowing, convert, exchange, and transformation the code to our own dialect or languages by realtime use Reyhan Jr. Injector 2.0
 ```
 
 ## How to use, for example at Jupyter Notebook:
