@@ -213,7 +213,92 @@ You can checkout view the file directly:
 [JPG](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.jpg),
 [PYTHON](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.ipynb),
 
-### Reyhan Jr. Injector 2.0
+### Dokumentasi dan Kemampuan Reyhan Jr. Injector 2.0
+
+#### Informasi Dasar dari README.md
+Reyhan Jr. Injector 2.0 adalah alat yang menyediakan sistem untuk encode atau mengonversi data dan menerjemahkan atau mendekode data. Ini termasuk tabel konversi berikut:
+
+#### Berbagai Fitur di berbagai kebutuhan dan keperluan :
+1. **Konversi Teks ke Kode:**
+   - Menggunakan tabel konversi untuk mengonversi teks biasa ke dalam kode khusus.
+   - Contoh: Mengonversi "Hello World!" menjadi "y8 T5 X2 X2 W5 FF r3 W5 Y8 X2 H4 Pm".
+
+2. **Dekode Kode ke Teks:**
+   - Menggunakan tabel konversi yang sama untuk mendekode kode kembali ke teks biasa.
+   - Contoh: Mengonversi "y8 T5 X2 X2 W5 FF r3 W5 Y8 X2 H4 Pm" kembali menjadi "Hello World!".
+
+3. **Konversi Kode ke Bahasa Manusia:**
+   - Menerjemahkan kode yang sudah dikonversi ke dalam berbagai bahasa manusia, seperti Minangkabau, Betawi, Batak, Jawa, Sunda, dan lainnya.
+   - Contoh: Mengonversi "k1 n7 u3 p0 p0 k1 u3 n7" menjadi "Aku cinta kamu" dalam bahasa Jawa.
+
+4. **Konversi dan Penyusunan Data Biologis:**
+   - Mengonversi data biologis seperti sekuens DNA atau RNA ke dalam kode khusus, dan kemudian menerjemahkannya untuk analisis lebih lanjut.
+   - Contoh: Mengonversi sekuens DNA "AGCTTACG" menjadi "k1 n7 u3 p0 p0 k1 u3 n7".
+
+5. **Konversi Data Simbolik:**
+   - Mengonversi data simbolik seperti representasi virus atau struktur kimia ke dalam kode khusus untuk tujuan penelitian atau enkripsi.
+   - Contoh: Mengonversi sekuens genetik SARS-CoV-2 menjadi "k1 n7 u3 p0 p0 k1 u3 n7".
+
+6. **Sinkronisasi Data Waktu dan Tanggal:**
+   - Menyediakan fitur sinkronisasi waktu dan tanggal dunia untuk memastikan data yang dikonversi selalu akurat dan up-to-date.
+
+7. **Fitur Tambahan / Lainnya:**
+   - Kemampuan kalkulasi dan pemrograman untuk analisis data yang lebih kompleks.
+
+### Contoh Implementasi
+
+#### Konversi Teks ke Kode di Python :
+```python
+def convert_text(text):
+    conversion_table = {
+        'A': 'k1', 'T': 'p0', 'G': 'n7', 'C': 'u3', ' ': 'FF',
+        'a': 'J1', 'b': 'I2', 'c': 'S3', 'd': 'H4', 'e': 'T5',
+        'f': 'K6', 'g': 'A7', 'h': 'U8', 'i': 'L9', 'j': 'V0',
+        'k': 'B1', 'l': 'X2', 'm': 'M3', 'n': 'C4', 'o': 'W5',
+        'p': 'D6', 'q': 'N7', 'r': 'Y8', 's': 'h9', 't': 'E0',
+        'u': 'Z1', 'v': 'P2', 'w': 'Q3', 'x': 'F4', 'y': 'R5', 'z': 'G6'
+    }
+    return ' '.join(conversion_table.get(char, '') for char in text)
+
+text = "Hello World!"
+print("Hasil Konversi:", convert_text(text))
+```
+
+#### Dekode Kode ke Teks di Python :
+```python
+def decode_text(code):
+    conversion_table = {
+        'k1': 'A', 'p0': 'T', 'n7': 'G', 'u3': 'C', 'FF': ' ',
+        'J1': 'a', 'I2': 'b', 'S3': 'c', 'H4': 'd', 'T5': 'e',
+        'K6': 'f', 'A7': 'g', 'U8': 'h', 'L9': 'i', 'V0': 'j',
+        'B1': 'k', 'X2': 'l', 'M3': 'm', 'C4': 'n', 'W5': 'o',
+        'D6': 'p', 'N7': 'q', 'Y8': 'r', 'h9': 's', 'E0': 't',
+        'Z1': 'u', 'P2': 'v', 'Q3': 'w', 'F4': 'x', 'R5': 'y', 'G6': 'z'
+    }
+    return ''.join(conversion_table.get(char, '') for char in code.split())
+
+code = "y8 T5 X2 X2 W5 FF r3 W5 Y8 X2 H4 Pm"
+print("Hasil Dekode:", decode_text(code))
+```
+
+#### Konversi Kode ke Bahasa Minangkabau
+```python
+def translate_code_to_minangkabau(code):
+    translation_table = {
+        'h9': 'Ambo', 'J1': 'Reyhan', 'R5': 'alias', 'FF': ' ', 'v8': 'John',
+        'T5': 'Doe', 'u8': 'Jr.', 'C4': 'dan', 'X2': 'anak', 'L9': 'ini', 'O9': 'adalah',
+        'W0': 'manusia', 'Y8': 'dari', 'Sq': 'Padang'
+    }
+    return ' '.join(translation_table.get(part, '') for part in code.split())
+
+code = "h9 J1 R5 J1 FF v8 T5 R5 u8 J1 C4 FF J1 X2 L9 J1 O9 FF v8 T5 R5 u8 J1 C4 FF W0 Y8 Sq"
+print("Terjemahan ke Bahasa Minangkabau:", translate_code_to_minangkabau(code))
+```
+
+### Kesimpulan
+Reyhan Jr. Injector 2.0 memiliki peran yang sangat luas dalam mengonversi dan mendekode teks serta data biologis dan simbolik. Dengan kemampuan untuk menerjemahkan kode ke dalam berbagai bahasa manusia, alat ini sangat berguna untuk penelitian, enkripsi, dan analisis data.
+
+Jika Anda memiliki pertanyaan lebih lanjut atau memerlukan bantuan tambahan, silakan beritahu saya!
 
 The **Reyhan Jr. Injector 2.0** is a Tools that provides a system for encoding or converting data and translating or decoding... It includes the following conversion tables:
 
