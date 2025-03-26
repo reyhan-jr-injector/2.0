@@ -400,6 +400,22 @@ Hasil Konversi Tinggi: y8 T5 L9 A7 E0 Nj GG AA WW S3 M3
 Hasil Konversi Berat: y8 T5 M3 A7 E0 Nj GG GG AA B1 A7
 Hasil Konversi Golongan Darah: y8 T5 L9 O9 E0 Nj g5
 ```
+Hasil Konversi lainnya 
+Jika Anda menjalankan kode di atas dengan input data biologis:
+- Tulang: "Bone"
+- Tengkorak: "Skull"
+- Sel Tubuh: "Body Cell"
+- Sel Penyakit: "Disease Cell"
+- Sel Kulit: "Skin Cell"
+
+Hasil konversinya lainnya:
+```
+Hasil Konversi Tulang: x2 W5 C4 T5
+Hasil Konversi Tengkorak: h9 T5 C1 B2 X2 X2
+Hasil Konversi Sel Tubuh: x2 W5 C4 T5 FF S3 T5 X2 X2 FF
+Hasil Konversi Sel Penyakit: l4 T5 C4 T5 T5 E0 FF S3 T5 X2 X2 FF
+Hasil Konversi Sel Kulit: h9 T5 X2 U8 X2 FF S3 T5 X2 X2 FF
+```
 
 Dengan pendekatan ini, Anda dapat mengonversi berbagai jenis data biologis atau fisik ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0.
 
