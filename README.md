@@ -226,6 +226,10 @@ This tool is designed to translate standard characters, numbers, and symbols int
 
 let's provide a detailed example of translating "Hello World!" using the symbolic conversion table, ensuring that each character's translation is separated by a space.
 
+**Results Translating "Hello World!"** :
+```code
+y8 T5 X2 X2 W5 FF r3 W5 Y8 X2 H4 Pm
+````
 ### Symbolic Conversion Table
 Here's the symbolic conversion table we will use:
 
@@ -236,7 +240,10 @@ Here is the sample of converted text using the Reyhan Jr. Injector 2.0 conversio
 
 **Sample Text**: Saya Reyhan alias Reyhan Jr.
 
-**Results Convert** : h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq
+**Results Convert** : 
+```code
+ h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq
+```
 
 
 This conversion uses the tables provided in the README.md file to map each character to its corresponding code.
