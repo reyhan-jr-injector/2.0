@@ -5,3 +5,6 @@ internal = true
 non_internal = true
 realtime = true
 open_source = true
+live_stream = true
+saved_history_and_records = true
+keep_alive_connected_networks_while_online_or_offline = true
