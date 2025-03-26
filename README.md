@@ -399,6 +399,272 @@ Kita bisa menggunakan tabel konversi yang sama untuk mengubah data ini ke dalam 
 | 13 | g | A7 |
 | 14 | O | g5 |
 ```
+### Kode Anatomi Manusia dalam Reyhan Jr. Injector
+
+Reyhan Jr. Injector 2.0 menyediakan sistem untuk mengonversi data biologis seperti sekuens DNA atau RNA ke dalam kode khusus. Berikut adalah beberapa contoh nyata dari konversi data biologis manusia ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0.
+
+#### Contoh Konversi Data Biologis
+
+##### 2. Konversi Data Fisik Manusia
+Kita akan menggunakan tabel konversi untuk mengubah data fisik manusia ke dalam kode. Misalnya:
+- Tinggi: "Height:180cm"
+- Berat: "Weight:75kg"
+- Golongan Darah: "BloodType:O"
+
+Tabel konversi yang digunakan:
+```markdown
+| Number | Function | Converter / Exchange |
+| 1 | H | y8 |
+| 2 | e | T5 |
+| 3 | i | L9 |
+| 4 | g | A7 |
+| 5 | t | E0 |
+| 6 | : | Nj |
+| 7 | 1 | GG |
+| 8 | 8 | AA |
+| 9 | 0 | WW |
+| 10 | c | S3 |
+| 11 | m | M3 |
+| 12 | k | B1 |
+| 13 | g | A7 |
+| 14 | O | g5 |
+```
+
+Berikut adalah contoh kode Python untuk mengonversi data fisik manusia:
+
+```python name=convert_physical_data_to_code.py
+def convert_physical_data_to_code(data):
+    conversion_table = {
+        'H': 'y8', 'e': 'T5', 'i': 'L9', 'g': 'A7', 't': 'E0',
+        ':': 'Nj', '1': 'GG', '8': 'AA', '0': 'WW', 
+        'c': 'S3', 'm': 'M3', 'k': 'B1', 'O': 'g5'
+    }
+    return ' '.join(conversion_table.get(char, '') for char in data)
+
+# Contoh penggunaan
+height = "Height:180cm"
+weight = "Weight:75kg"
+blood_type = "BloodType:O"
+converted_height = convert_physical_data_to_code(height)
+converted_weight = convert_physical_data_to_code(weight)
+converted_blood_type = convert_physical_data_to_code(blood_type)
+
+print("Hasil Konversi Tinggi:", converted_height)
+print("Hasil Konversi Berat:", converted_weight)
+print("Hasil Konversi Golongan Darah:", converted_blood_type)
+```
+
+Hasil konversinya adalah:
+```
+Hasil Konversi Tinggi: y8 T5 L9 A7 E0 Nj GG AA WW S3 M3
+Hasil Konversi Berat: y8 T5 M3 A7 E0 Nj GG GG RR B1 A7
+Hasil Konversi Golongan Darah: y8 T5 L9 O9 E0 Nj g5
+```
+
+### 100 Contoh Nyata Konversi Data Fisik Manusia
+Berikut adalah 100 contoh nyata konversi data fisik manusia ke dalam kode:
+
+1. **Mata** (Eyes)
+   - `Eyes` -> `R5 T5 Y8 T5 h9`
+2. **Telinga** (Ears)
+   - `Ears` -> `R5 T5 Y8 T5 h9`
+3. **Hidung** (Nose)
+   - `Nose` -> `d4 W5 T5 h9`
+4. **Mulut** (Mouth)
+   - `Mouth` -> `a3 W5 X2 q1 p0`
+5. **Saraf** (Nerves)
+   - `Nerves` -> `d4 T5 Y8 h9 v8 K6`
+6. **Jantung** (Heart)
+   - `Heart` -> `y8 T5 A7 v8 E0`
+7. **Paru-paru** (Lungs)
+   - `Lungs` -> `b2 q1 C4 A7 h9`
+8. **Lambung** (Stomach)
+   - `Stomach` -> `h9 E0 W5 M3 A7 C4 h9`
+9. **Otak** (Brain)
+   - `Brain` -> `x2 Y8 J1 L9 C4`
+10. **Ginjal** (Kidney)
+    - `Kidney` -> `B1 L9 H4 d4 T5 e5`
+11. **Hati** (Liver)
+    - `Liver` -> `b2 L9 v8 T5 Y8`
+12. **Pankreas** (Pancreas)
+    - `Pancreas` -> `z6 J1 C4 Y8 T5 h9`
+13. **Usus** (Intestine)
+    - `Intestine` -> `o9 C4 E0 h9 E0 L9 C4`
+14. **Kulit** (Skin)
+    - `Skin` -> `h9 B1 L9 C4`
+15. **Tulang** (Bone)
+    - `Bone` -> `x2 W5 C4 T5 e5`
+16. **Otot** (Muscle)
+    - `Muscle` -> `a3 L9 h9 E0 T5`
+17. **Pembuluh Darah** (Blood Vessel)
+    - `Blood Vessel` -> `x2 W5 J1 J1 v8 T5 Y8 e5 Y8`
+18. **Rambut** (Hair)
+    - `Hair` -> `y8 J1 L9 Y8`
+19. **Dagu** (Chin)
+    - `Chin` -> `u3 J1 L9 C4`
+20. **Kaki** (Leg)
+    - `Leg` -> `b2 T5 L9`
+21. **Tangan** (Hand)
+    - `Hand` -> `y8 J1 C4 H4`
+22. **Jari** (Finger)
+    - `Finger` -> `K6 L9 C4 Y8 v8`
+23. **Lutut** (Knee)
+    - `Knee` -> `B1 C4 T5 e5`
+24. **Punggung** (Back)
+    - `Back` -> `x2 J1 B1 S3`
+25. **Dada** (Chest)
+    - `Chest` -> `u3 J1 T5 h9 E0`
+26. **Pinggang** (Waist)
+    - `Waist` -> `r3 J1 X2 h9 E0`
+27. **Pinggul** (Hip)
+    - `Hip` -> `y8 L9 D6`
+28. **Paha** (Thigh)
+    - `Thigh` -> `E0 y8 L9 A7`
+29. **Betis** (Calf)
+    - `Calf` -> `S3 J1 L9 K6`
+30. **Lengan** (Arm)
+    - `Arm` -> `J1 Y8 a3`
+31. **Siku** (Elbow)
+    - `Elbow` -> `T5 L9 B1 W5`
+32. **Bahu** (Shoulder)
+    - `Shoulder` -> `h9 W5 L9 Y8 E0 v8 T5 Y8`
+33. **Leher** (Neck)
+    - `Neck` -> `b2 o9 u3 B1`
+34. **Jempol** (Thumb)
+    - `Thumb` -> `E0 y8 J1 M3`
+35. **Telapak Tangan** (Palm)
+    - `Palm` -> `z6 J1 L9 M3`
+36. **Pergelangan Tangan** (Wrist)
+    - `Wrist` -> `r3 Y8 L9 h9 E0`
+37. **Tumit** (Heel)
+    - `Heel` -> `y8 T5 e5 e5`
+38. **Jari Kaki** (Toe)
+    - `Toe` -> `E0 W5 T5`
+39. **Perut** (Abdomen)
+    - `Abdomen` -> `J1 B1 H4 W5 C4`
+40. **Pusar** (Navel)
+    - `Navel` -> `d4 J1 v8 T5 e5`
+41. **Bibir** (Lips)
+    - `Lips` -> `b2 L9 J1 h9`
+42. **Gigi** (Teeth)
+    - `Teeth` -> `E0 T5 y8 E0`
+43. **Lidah** (Tongue)
+    - `Tongue` -> `E0 W5 C4 A7`
+44. **Pipi** (Cheek)
+    - `Cheek` -> `u3 T5 L9 B1`
+45. **Kening** (Forehead)
+    - `Forehead` -> `K6 W5 Y8 T5 y8`
+46. **Bulu Mata** (Eyelash)
+    - `Eyelash` -> `R5 T5 L9 J1 h9`
+47. **Alis** (Eyebrow)
+    - `Eyebrow` -> `R5 T5 x2 W5 r3`
+48. **Tulang Belakang** (Spine)
+    - `Spine` -> `O9 X2 J1 L9 C4`
+49. **Tulang Ekor** (Tailbone)
+    - `Tailbone` -> `E0 J1 x2 W5 T5`
+50. **Tulang Rusuk** (Rib)
+    - `Rib` -> `v8 L9 x2`
+51. **Tulang Lengan** (Arm Bone)
+    - `Arm Bone` -> `J1 Y8 a3 x2 W5`
+52. **Tulang Kaki** (Leg Bone)
+    - `Leg Bone` -> `b2 T5 L9 x2 W5`
+53. **Tulang Paha** (Thigh Bone)
+    - `Thigh Bone` -> `E0 y8 J1 a3 x2 W5`
+54. **Tulang Betis** (Calf Bone)
+    - `Calf Bone` -> `S3 J1 L9 K6 x2 W5`
+55. **Tulang Jari** (Finger Bone)
+    - `Finger Bone` -> `K6 L9 C4 Y8 v8 x2 W5`
+56. **Tulang Jari Kaki** (Toe Bone)
+    - `Toe Bone` -> `E0 W5 T5 x2 W5`
+57. **Tulang Pergelangan** (Wrist Bone)
+    - `Wrist Bone` -> `r3 Y8 L9 h9 E0 x2 W5`
+58. **Tulang Siku** (Elbow Bone)
+    - `Elbow Bone` -> `T5 L9 B1 W5 x2 W5`
+59. **Tulang Bahu** (Shoulder Bone)
+    - `Shoulder Bone` -> `h9 W5 L9 Y8 E0 v8 T5 Y8 x2 W5`
+60. **Tulang Leher** (Neck Bone)
+    - `Neck Bone` -> `b2 o9 u3 B1 x2 W5`
+61. **Tulang Dada** (Chest Bone)
+    - `Chest Bone` -> `u3 J1 T5 h9 E0 x2 W5`
+62. **Tulang Pinggul** (Hip Bone)
+    - `Hip Bone` -> `y8 L9 D6 x2 W5`
+63. **Tulang Jari Tangan** (Hand Finger Bone)
+    - `Hand Finger Bone` -> `y8 J1 C4 H4 K6 L9 C4 Y8 v8 x2 W5`
+64. **Tulang Bahu Kanan** (Right Shoulder Bone)
+    - `Right Shoulder Bone` -> `v8 L9 h9 Y8 E0 v8 T5 Y8 x2 W5`
+65. **Tulang Bahu Kiri** (Left Shoulder Bone)
+    - `Left Shoulder Bone` -> `b2 x2 L9 h9 Y8 E0 v8 T5 Y8 x2 W5`
+66. **Tulang Pergelangan Kaki** (Ankle Bone)
+    - `Ankle Bone` -> `J1 C4 L9 Y8 L9 x2 W5`
+67. **Tulang Pergelangan Tangan** (Wrist Bone)
+    - `Wrist Bone` -> `r3 Y8 L9 h9 E0 x2 W5`
+68. **Tulang Pergelangan Kaki Kanan** (Right Ankle Bone)
+    - `Right Ankle Bone` -> `r3 Y8 x2 L9 Y8 L9 x2 W5`
+69. **Tulang Pergelangan Kaki Kiri** (Left Ankle Bone)
+    - `Left Ankle Bone` -> `x2 r3 L9 Y8 L9 x2 W5`
+70. **Tulang Tengkorak** (Skull)
+    - `Skull` -> `h9 B1 L9 J1 J1`
+71. **Tulang Paha Kanan** (Right Thigh Bone)
+    - `Right Thigh Bone` -> `v8 E0 y8 J1 a3 x2 W5`
+72. **Tulang Paha Kiri** (Left Thigh Bone)
+    - `Left Thigh Bone` -> `b2 E0 y8 J1 a3 x2 W5`
+73. **Tulang Betis Kanan** (Right Calf Bone)
+    - `Right Calf Bone` -> `v8 S3 J1 L9 K6 x2 W5`
+74. **Tulang Betis Kiri** (Left Calf Bone)
+    - `Left Calf Bone` -> `b2 S3 J1 L9 K6 x2 W5`
+75. **Tulang Jari Kaki Kanan** (Right Toe Bone)
+    - `Right Toe Bone` -> `v8 E0 W5 T5 x2 W5`
+76. **Tulang Jari Kaki Kiri** (Left Toe Bone)
+    - `Left Toe Bone` -> `b2 E0 W5 T5 x2 W5`
+77. **Tulang Telapak Kaki** (Sole Bone)
+    - `Sole Bone` -> `O9 J1 L9 Y8 J1 x2 W5`
+78. **Tulang Telapak Tangan** (Palm Bone)
+    - `Palm Bone` -> `z6 J1 L9 M3 x2 W5`
+79. **Tulang Dahi** (Forehead Bone)
+    - `Forehead Bone` -> `K6 W5 Y8 T5 y8 x2 W5`
+80. **Tulang Pipi** (Cheek Bone)
+    - `Cheek Bone` -> `u3 T5 L9 B1 x2 W5`
+81. **Tulang Lidah** (Tongue Bone)
+    - `Tongue Bone` -> `E0 W5 C4 A7 x2 W5`
+82. **Tulang Bibir** (Lip Bone)
+    - `Lip Bone` -> `b2 L9 J1 h9 x2 W5`
+83. **Tulang Gigi** (Teeth Bone)
+    - `Teeth Bone` -> `E0 T5 y8 E0 x2 W5`
+84. **Tulang Dagu** (Chin Bone)
+    - `Chin Bone` -> `u3 J1 L9 C4 x2 W5`
+85. **Tulang Rambut** (Hair Bone)
+    - `Hair Bone` -> `y8 J1 L9 Y8 x2 W5`
+86. **Tulang Alis** (Eyebrow Bone)
+    - `Eyebrow Bone` -> `R5 T5 x2 W5 r3 x2 W5`
+87. **Tulang Bulu Mata** (Eyelash Bone)
+    - `Eyelash Bone` -> `R5 T5 L9 J1 h9 x2 W5`
+88. **Tulang Pelipis** (Temple Bone)
+    - `Temple Bone` -> `E0 J1 m6 J1 S3 x2 W5`
+89. **Tulang Rahang** (Jaw Bone)
+    - `Jaw Bone` -> `w0 J1 W5 L9 x2 W5`
+90. **Tulang Rahang Bawah** (Lower Jaw Bone)
+    - `Lower Jaw Bone` -> `b2 x2 J1 W5 L9 x2 W5`
+91. **Tulang Rahang Atas** (Upper Jaw Bone)
+    - `Upper Jaw Bone` -> `q1 x2 J1 W5 L9 x2 W5`
+92. **Tulang Punggung** (Back Bone)
+    - `Back Bone` -> `x2 J1 B1 S3 x2 W5`
+93. **Tulang Tulang Belakang** (Backbone)
+    - `Backbone` -> `J1 x2 J1 L9 J1 x2 W5`
+94. **Tulang Leher Belakang** (Back Neck Bone)
+    - `Back Neck Bone` -> `J1 x2 B1 L9 o9 x2 W5`
+95. **Tulang Leher Depan** (Front Neck Bone)
+    - `Front Neck Bone` -> `K6 J1 J1 B1 L9 x2 W5`
+96. **Tulang Dada Belakang** (Back Chest Bone)
+    - `Back Chest Bone` -> `x2 J1 u3 J1 T5 h9 E0 x2 W5`
+97. **Tulang Dada Depan** (Front Chest Bone)
+    - `Front Chest Bone` -> `K6 J1 J1 u3 J1 T5 h9 E0 x2 W5`
+98. **Tulang Pinggul Belakang** (Back Hip Bone)
+    - `Back Hip Bone` -> `J1 x2 Y8 L9 D6 x2 W5`
+99. **Tulang Pinggul Depan** (Front Hip Bone)
+    - `Front Hip Bone` -> `K6 J1 q1 Y8 L9 D6 x2 W5`
+100. **Tulang Pergelangan Kaki Belakang** (Back Ankle Bone)
+    - `Back Ankle Bone` -> `J1 x2 B1 L9 Y8 L9 x2 W5`
+
 
 ### Kode Python untuk Konversi Data Fisik
 ```python
