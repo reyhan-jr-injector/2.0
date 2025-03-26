@@ -294,25 +294,17 @@ s3 c4 FF a7 n7 a1 d9 t5 x6 e0 l5 FF d9 c4 FF n7 t5 s3 c4 a7 m3 9 d6 t5 FF a1 m3 
 
 This conversion uses the tables provided in the README.md file to map each character to its corresponding code.
 ```code
-Transform or translating or decoding your any documents into AI-ready-set of multi-formats with our powerful document or else 
-by processing with these tools on platform.
+Transform to Reyhan Jr. Injector 2.0, or also translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by multi-formats with multi-purpose by our powerful tools for document or else 
+by processing with Reyhan Jr. Injector 2.0 tools on your own platform.
 ```
-Translate or decoding one-to-another of languages without additional act with Reyhan Jr. Injector 2.0 by Reyhan alias Reyhan Jr.
+Translate or decoding or convert or exchange one-to-another of the kind languages without additional act with Reyhan Jr. Injector 2.0 by Reyhan alias Reyhan Jr.
 
 # Repository Information
 These may so executed and contains of folders, file, and system configuration files.
-```
-/
-docs/
-dist/
-core/
-index-of/
-```
-
 
 ## Repository Overview
 
-This repository includes various folders and configuration files that serve different purposes. The primary languages used in this repository are HTML and Jupyter Notebook or if else feel compatible with own your.
+This repository includes various folders and configuration files that serve different purposes. The primary languages used in this repository are HTML and Jupyter Notebook or if else feel it compatible with own your languages it can used.
 
 ## Project Files
 
