@@ -2,10 +2,23 @@
 Reyhan Jr. Injector 2.0 by Reyhan alias Reyhan Jr.
 now pairing with AI-Ready and Machines-Ready.
 
+## Main Works of Reyhan Jr. Injector 2.0
+Reyhan Jr. Injector 2.0 , how it Works,
 ```code
-Name Long = Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
-Name Short = Reyhan Jr. Injector 2.0
+1. Injection physical address and physical code.
+2. Starting first scanning.
+3. View browse physical address and code as HEX by running by realtime
+4. AI-ready and Machines-ready for todo translating, decoding, listening, recognize, observe, understanding, knowing, convert, exchange, and transformation the code to our own dialect or languages by realtime use Reyhan Jr. Injector 2.0
+```
+## How todo before started Reyhan Jr. Injector 2.0?
+```code
+- Creating Environtment for Reyhan Jr. Injector
+- Building Workdesk
+```
 
+## Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
+Reyhan Jr. Injector 2.0
+```code
 Alphabet = 54 Row
 
 | Number | Function | Converter / Exchange |
@@ -1024,7 +1037,7 @@ The **Reyhan Jr. Injector 2.0** is a Tools that provides a system for encoding o
 - **Alphabet Conversion Table:** Maps letters of the alphabet to specific codes, such as `A -> k1`, `B -> x2`, etc.
 - **Numeric Conversion Table:** Maps numbers to specific codes, such as `0 -> WW`, `1 -> GG`, etc.
 - **Symbolic Conversion Table:** Maps various symbols and functions to specific codes, such as `Alphabet/Word/QWORD/DWORD/Float/String/Text/Array of String -> 5v`, `Numeric/Number/Decimal/Byte/HEX/BIN/Array of Byte -> 6w`.
-- **Code Conversion Table:**
+- **Code Conversion Physical Address and code Table:**
 Maps various code or codes and functions to specific code or codes.
 
 This tool is designed to translate standard characters, numbers, and symbols into a set of custom codes, which might be used for specialized applications or encryption purposes. The notebook is well-structured and provides clear mappings that can be easily referenced.
@@ -1078,24 +1091,10 @@ This file was made wonderfully to be consistent with excellent quality. It works
 
 ## How sample success Reyhan Jr. Injector running before?
 ```code
-sample: Saya Reyhan alias Reyhan Jr.
-results: h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq
+sample text: Saya Reyhan alias Reyhan Jr.
+results convert: h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq
 ```
 
-## How it work before started?
-```code
-- Creating Environtment for Reyhan Jr. Injector
-- Building Workdesk
-```
-
-## Main Works Reyhan Jr. Injector 2.0
-Reyhan Jr. Injector 2.0 How Works,
-```code
-1. Injection physical address and physical code.
-2. Starting first scanning.
-3. View browse physical address and code as HEX by running by realtime
-4. AI-ready and Machines-ready for todo translating, decoding, listening, recognize, observe, understanding, knowing, convert, exchange, and transformation the code to our own dialect or languages by realtime use Reyhan Jr. Injector 2.0
-```
 
 ## How to use, for example at Jupyter Notebook:
 1. Clone the repository:
