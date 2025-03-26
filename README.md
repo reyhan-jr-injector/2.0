@@ -18,9 +18,8 @@ Reyhan Jr. Injector 2.0 , how it Works,
 
 ## Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
 Reyhan Jr. Injector 2.0
-```code
 Alphabet = 54 Row
-
+```code
 | Number | Function | Converter / Exchange |
 | 1 | A | k1 |
 | 2 | B | x2 |
@@ -76,9 +75,9 @@ Alphabet = 54 Row
 | 52 | z | G6 |
 | 53 | Space | FF |
 | 54 | Blank | CC |
-
+```
 Numeric = 11 Row
-
+```code
 | Number | Function | Converter / Exchange |
 | 1 | 0 | WW |
 | 2 | 1 | GG |
@@ -91,9 +90,9 @@ Numeric = 11 Row
 | 9 | 8 | AA |
 | 10 | 9 | XX |
 | 11 | 10 | VV |
-
+```
 Symbolic = 115 Row
-
+```code
 | Number | Function | Converter / Exchange |
 | 1 | Alphabet/Word/QWORD/DWORD/Float/String/Text/Array of String | 5v |
 | 2 | Numeric/Number/Decimal/Byte/HEX/BIN/Array of Byte | 6w |
@@ -212,11 +211,6 @@ Symbolic = 115 Row
 | 115 | € | 6F |
 ```
 
-Reyhan Jr. Injector 2.0 by Reyhan alias Reyhan Jr.
-```code
-Name Long = Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0 Name Short = Reyhan Jr. 2.0
-```
-
 You can checkout view the file directly:
 [here](https://github.com/reyhan-jr-injector/2.0/blob/main/Reyhan%20Jr.%20Injector%202.0.ipynb),
 [README.md](https://github.com/reyhan-jr-injector/2.0/blob/main/README.md),
@@ -256,8 +250,8 @@ Reyhan Jr. Injector 2.0 adalah alat yang menyediakan sistem untuk encode atau me
 
 7. **Fitur Tambahan / Lainnya:**
    - Kemampuan kalkulasi dan pemrograman untuk analisis data yang lebih kompleks.
-8.   **Mengonversi alamat fisik dan kode fisik:** Mengkonversi fisik, alamat fisik, kode fisik, data, data biologis seperti menjadi sekuens ke dalam kode khusus, dan kemudian menerjemahkannya untuk analisis lebih lanjut
-
+   - Mengonversi alamat fisik dan kode fisik, Mengkonversi fisik, alamat fisik, kode fisik, data fisik, data, data biologis, data-data lainnya seperti menjadi sekuens ke dalam kode khusus, dan kemudian menerjemahkannya analisa lanjut.
+     
 ### Cara Menggunakan Reyhan Jr. Injector 2.0 untuk Mengonversi Teks Menjadi Kode
 
 **Reyhan Jr. Injector 2.0** adalah alat yang menyediakan sistem untuk mengkode atau mengonversi data serta menerjemahkan atau mendekode fisik nyata dan data. Alat ini menggunakan berbagai macam variabel tabel konversi yang telah ditentukan untuk mengonversi karakter teks menjadi kode khusus, atau yang lainnya.
