@@ -227,7 +227,10 @@ Reyhan Jr. Injector 2.0 adalah alat yang menyediakan sistem untuk encode atau me
 #### Berbagai Fitur di berbagai kebutuhan dan keperluan :
 1. **Konversi Teks ke Kode:**
    - Menggunakan tabel konversi untuk mengonversi teks biasa ke dalam kode khusus.
-   - Contoh: Mengonversi "Hello World!" menjadi "y8 T5 X2 X2 W5 FF r3 W5 Y8 X2 H4 Pm".
+   - Contoh: Mengonversi "Hello World!" menjadi
+```code
+"y8 T5 X2 X2 W5 FF r3 W5 Y8 X2 H4 Pm".
+```
 
 2. **Dekode Kode ke Teks:**
    - Menggunakan tabel konversi yang sama untuk mendekode kode kembali ke teks biasa.
@@ -274,7 +277,8 @@ Berikut adalah langkah-langkah dan contoh nyata bagaimana menggunakan Reyhan Jr.
 ```
 
 ### Contoh Kode Python untuk Mengonversi Teks
-```python name=convert_text_to_code.py
+```code
+name=convert_text_to_code.py
 def convert_text_to_code(text):
     conversion_table = {
         'h': 'U8', 'o': 'W5', 'w': 'Q3', "'": 'Mi', 's': 'O9',
@@ -296,7 +300,8 @@ Dengan menggunakan tabel konversi di atas, kita dapat melihat bagaimana setiap k
 
 ### Tabel Konversi dari Kode ke Teks:
 
-```code name=convert_code_to_text.py
+```code
+name=convert_code_to_text.py
 def convert_code_to_text(code):
     conversion_table = {
         'k1': 'A', 'x2': 'B', 'u3': 'C', 'l4': 'D', 't5': 'E',
@@ -312,6 +317,7 @@ def convert_code_to_text(code):
         'R5': 'y', 'G6': 'z', 'FF': ' ', 'CC': 'Blank'
     }
     return ''.join(conversion_table.get(char, '') for char in code.split())
+```
 
 # Contoh penggunaan:
 ```code
@@ -426,7 +432,7 @@ Hasil Dekode: bersyukur sekali bisa kenal dan tau sejak sangat awal dan dari per
 ```
 
 #### Konversi Teks ke Kode di Python :
-```python
+```code
 def convert_text(text):
     conversion_table = {
         'A': 'k1', 'T': 'p0', 'G': 'n7', 'C': 'u3', ' ': 'FF',
@@ -443,7 +449,7 @@ print("Hasil Konversi:", convert_text(text))
 ```
 
 #### Dekode Kode ke Teks di Python :
-```python
+```code
 def decode_text(code):
     conversion_table = {
         'k1': 'A', 'p0': 'T', 'n7': 'G', 'u3': 'C', 'FF': ' ',
@@ -460,7 +466,7 @@ print("Hasil Dekode:", decode_text(code))
 ```
 
 #### Konversi Kode ke Bahasa Minangkabau
-```python
+```code
 def translate_code_to_minangkabau(code):
     translation_table = {
         'h9': 'Ambo', 'J1': 'Reyhan', 'R5': 'alias', 'FF': ' ', 'v8': 'John',
@@ -497,7 +503,7 @@ Tabel konversi bisa diambil dari README.md:
 ### Kode Python untuk Konversi Sekuens DNA
 Berikut adalah contoh kode Python untuk mengonversi sekuens DNA menjadi kode:
 
-```python
+```code
 def convert_dna_to_code(dna_sequence):
     conversion_table = {
         'A': 'k1', 'T': 'p0', 'C': 'u3', 'G': 'n7'
@@ -512,7 +518,7 @@ print("Hasil Konversi DNA:", converted_code)
 
 ### Hasil Konversi
 Jika Anda menjalankan kode di atas dengan input sekuens DNA "ATCGTAGC", hasil konversinya adalah:
-```
+```code
 Hasil Konversi DNA: k1 p0 u3 n7 p0 k1 n7 u3
 ```
 
@@ -573,7 +579,8 @@ Tabel konversi yang digunakan:
 
 Berikut adalah contoh kode Python untuk mengonversi data fisik manusia:
 
-```python name=convert_physical_data_to_code.py
+```code
+name=convert_physical_data_to_code.py
 def convert_physical_data_to_code(data):
     conversion_table = {
         'H': 'y8', 'e': 'T5', 'i': 'L9', 'g': 'A7', 't': 'E0',
@@ -581,22 +588,23 @@ def convert_physical_data_to_code(data):
         'c': 'S3', 'm': 'M3', 'k': 'B1', 'O': 'g5'
     }
     return ' '.join(conversion_table.get(char, '') for char in data)
+```
 
 # Contoh penggunaan
+```code
 height = "Height:180cm"
 weight = "Weight:75kg"
 blood_type = "BloodType:O"
 converted_height = convert_physical_data_to_code(height)
 converted_weight = convert_physical_data_to_code(weight)
 converted_blood_type = convert_physical_data_to_code(blood_type)
-
 print("Hasil Konversi Tinggi:", converted_height)
 print("Hasil Konversi Berat:", converted_weight)
 print("Hasil Konversi Golongan Darah:", converted_blood_type)
 ```
 
 Hasil konversinya adalah:
-```
+```code
 Hasil Konversi Tinggi: y8 T5 L9 A7 E0 Nj GG AA WW S3 M3
 Hasil Konversi Berat: y8 T5 M3 A7 E0 Nj GG GG RR B1 A7
 Hasil Konversi Golongan Darah: y8 T5 L9 O9 E0 Nj g5
@@ -808,7 +816,7 @@ Berikut adalah 100 contoh nyata konversi data fisik manusia ke dalam kode:
 
 
 ### Kode Python untuk Konversi Data Fisik
-```python
+```code
 def convert_physical_data_to_code(data):
     conversion_table = {
         'H': 'y8', 'e': 'T5', 'i': 'L9', 'g': 'A7', 't': 'E0',
@@ -837,7 +845,7 @@ Jika Anda menjalankan kode di atas dengan input data fisik:
 - Golongan Darah: "BloodType:O"
 
 Hasil konversinya adalah:
-```
+```code
 Hasil Konversi Tinggi: y8 T5 L9 A7 E0 Nj GG AA WW S3 M3
 Hasil Konversi Berat: y8 T5 M3 A7 E0 Nj GG GG AA B1 A7
 Hasil Konversi Golongan Darah: y8 T5 L9 O9 E0 Nj g5
@@ -851,7 +859,7 @@ Jika Anda menjalankan kode di atas dengan input data biologis:
 - Sel Kulit: "Skin Cell"
 
 Hasil konversinya lainnya:
-```
+```code
 Hasil Konversi Tulang: x2 W5 C4 T5
 Hasil Konversi Tengkorak: h9 T5 C1 B2 X2 X2
 Hasil Konversi Sel Tubuh: x2 W5 C4 T5 FF S3 T5 X2 X2 FF
@@ -927,7 +935,7 @@ Kita akan menggunakan tabel konversi yang sama seperti sebelumnya.
 Berikut adalah contoh kode Python untuk mengonversi data fisik hewan dan tumbuhan menjadi kode menggunakan Reyhan Jr. Injector 2.0.
 
 #### Konversi Data Fisik Hewan
-```python
+```code
 def convert_animal_data_to_code(data):
     conversion_table = {
         'A': 'k1', 'B': 'x2', 'C': 'u3', 'D': 'l4', 'E': 't5',
@@ -951,7 +959,7 @@ print("Hasil Konversi Hewan:", converted_hewan)
 ```
 
 #### Konversi Data Fisik Tumbuhan
-```python
+```code
 def convert_plant_data_to_code(data):
     conversion_table = {
         'A': 'k1', 'B': 'x2', 'C': 'u3', 'D': 'l4', 'E': 't5',
@@ -980,13 +988,13 @@ Jika Anda menjalankan kode di atas dengan input data fisik:
 - Tumbuhan: "Rose Flower"
 
 Hasil konversinya adalah:
-```
+```code
 Hasil Konversi Hewan: t5 X2 T5 J1 H4 J1 C4 E0
 Hasil Konversi Tumbuhan: Y8 W5 h9 T5 FF K6 X2 W5 Y8 W5 E0 r3
 ```
 
 #### Konversi Data Fisik untuk Makhluk Hidup Lainnya
-```python
+```code
 def convert_living_being_data_to_code(data):
     conversion_table = {
         'A': 'k1', 'B': 'x2', 'C': 'u3', 'D': 'l4', 'E': 't5',
@@ -1019,7 +1027,7 @@ Jika Anda menjalankan kode di atas dengan input data fisik:
 - Makhluk Lainnya: "Alien"
 
 Hasil konversinya adalah:
-```
+```code
 Hasil Konversi Makhluk Hidup: p0 Y8 T5 T5
 Hasil Konversi Makhluk Lainnya: k1 X2 L9 T5 C4
 ```
