@@ -246,7 +246,7 @@ Reyhan Jr. Injector 2.0 adalah alat yang menyediakan sistem untuk encode atau me
 
 7. **Fitur Tambahan / Lainnya:**
    - Kemampuan kalkulasi dan pemrograman untuk analisis data yang lebih kompleks.
-8.   **Mengonversi:** Mengkonversi fisik, data, data biologis seperti menjadi sekuens ke dalam kode khusus, dan kemudian menerjemahkannya untuk analisis lebih lanjut
+8.   **Mengonversi alamat fisik dan kode fisik:** Mengkonversi fisik, alamat fisik, kode fisik, data, data biologis seperti menjadi sekuens ke dalam kode khusus, dan kemudian menerjemahkannya untuk analisis lebih lanjut
 
 ### Cara Menggunakan Reyhan Jr. Injector 2.0 untuk Mengonversi Teks Menjadi Kode
 
