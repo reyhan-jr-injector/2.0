@@ -629,21 +629,6 @@ Translate or decoding or convert or exchange one-to-another of the kind language
 # Repository Information
 These may so executed and contains of folders, file, and system configuration files.
 
-```code
-""
-"."
-".."
-[]
-()
-{}
-[/]
-/
-dist/
-config/
-docs/
-script/
-index-of/
-
 ## Repository Overview
 
 This repository includes various folders and configuration files that serve different purposes. The primary languages used in this repository are HTML and Jupyter Notebook or if else feel it compatible with own your languages it can used.
