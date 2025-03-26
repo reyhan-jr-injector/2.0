@@ -540,9 +540,7 @@ Kita bisa menggunakan tabel konversi yang sama untuk mengubah data ini ke dalam 
 
 Reyhan Jr. Injector 2.0 menyediakan sistem untuk mengonversi data biologis seperti sekuens DNA atau RNA ke dalam kode khusus. Berikut adalah beberapa contoh nyata dari konversi data biologis manusia ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0.
 
-#### Contoh Konversi Data Biologis
-
-##### 2. Konversi Data Fisik Manusia
+##### Konversi Data Fisik Manusia
 Kita akan menggunakan tabel konversi untuk mengubah data fisik manusia ke dalam kode. Misalnya:
 - Tinggi: "Height:180cm"
 - Berat: "Weight:75kg"
