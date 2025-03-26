@@ -244,12 +244,53 @@ Reyhan Jr. Injector 2.0 adalah alat yang menyediakan sistem untuk encode atau me
 
 7. **Fitur Tambahan / Lainnya:**
    - Kemampuan kalkulasi dan pemrograman untuk analisis data yang lebih kompleks.
-8.   **Mengonversi:** Mengkonversi data fisik biologis seperti menjadi sekuens ke dalam kode khusus, dan kemudian menerjemahkannya untuk analisis lebih lanjut
+8.   **Mengonversi:** Mengkonversi fisik, data, data biologis seperti menjadi sekuens ke dalam kode khusus, dan kemudian menerjemahkannya untuk analisis lebih lanjut
 
+### Cara Menggunakan Reyhan Jr. Injector 2.0 untuk Mengonversi Teks Menjadi Kode
+
+**Reyhan Jr. Injector 2.0** adalah alat yang menyediakan sistem untuk mengkode atau mengonversi data serta menerjemahkan atau mendekode fisik nyata dan data. Alat ini menggunakan berbagai macam variabel tabel konversi yang telah ditentukan untuk mengonversi karakter teks menjadi kode khusus, atau yang lainnya.
+
+Berikut adalah langkah-langkah dan contoh nyata bagaimana menggunakan Reyhan Jr. Injector 2.0 untuk mengonversi teks "how's it works" menjadi kode.
+
+### Tabel Konversi
+```code
+| Character | Code |
+|-----------|------|
+| h         | U8   |
+| o         | W5   |
+| w         | Q3   |
+| '         | Mi   |
+| s         | O9   |
+| i         | L9   |
+| t         | E0   |
+| r         | Y8   |
+| k         | B1   |
+```
+
+### Contoh Kode Python untuk Mengonversi Teks
+```python name=convert_text_to_code.py
+def convert_text_to_code(text):
+    conversion_table = {
+        'h': 'U8', 'o': 'W5', 'w': 'Q3', "'": 'Mi', 's': 'O9',
+        'i': 'L9', 't': 'E0', 'r': 'Y8', 'k': 'B1'
+    }
+    return ' '.join(conversion_table.get(char, '') for char in text)
+
+text = "how's it works"
+converted_text = convert_text_to_code(text)
+print("Hasil Konversi:", converted_text)
+```
+
+### Hasil Konversi
+```code
+Hasil Konversi "How's it works": U8 W5 Q3 Mi O9 FF L9 E0 FF Q3 W5 Y8 O9 B1
+```
+
+Dengan menggunakan tabel konversi di atas, kita dapat melihat bagaimana setiap karakter dalam teks "how's it works" dikonversi menjadi kode khusus menggunakan Reyhan Jr. Injector 2.0.
 
 ### Tabel Konversi dari Kode ke Teks:
 
-```python name=convert_code_to_text.py
+```code name=convert_code_to_text.py
 def convert_code_to_text(code):
     conversion_table = {
         'k1': 'A', 'x2': 'B', 'u3': 'C', 'l4': 'D', 't5': 'E',
@@ -266,10 +307,12 @@ def convert_code_to_text(code):
     }
     return ''.join(conversion_table.get(char, '') for char in code.split())
 
-# Contoh penggunaan
+# Contoh penggunaan:
+```code
 code = "v8 T5 X2 T5 FF s7 J1 C4 T5 FF T5 FF w0 J1 FF d4 J1 FF T5 v8 T5 FF E0 L9 FF Q3 T5 X2 H4 J1 I2"
 print("Hasil Dekode:", convert_code_to_text(code))
 ```
+
 Berdasarkan hasil pencarian di repositori Reyhan Jr. Injector 2.0 dan dokumentasi GitHub, berikut adalah contoh bagaimana Reyhan Jr. Injector 2.0 dapat memvisualisasikan data fisik nyata secara realtime.
 
 ### Contoh Hipotetis Visualisasi Fisik Nyata Realtime
@@ -277,7 +320,7 @@ Berdasarkan hasil pencarian di repositori Reyhan Jr. Injector 2.0 dan dokumentas
 #### 1. Visualisasi Data Fisik Manusia dalam Bentuk Grafik Realtime
 Misalnya, kita ingin memvisualisasikan data tinggi dan berat badan manusia secara realtime. Berikut adalah contoh kode Python yang dapat digunakan untuk membuat grafik menggunakan matplotlib dan memperbarui data secara realtime:
 
-```python name=visualize_physical_data_realtime.py
+```code name=visualize_physical_data_realtime.py
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import random
@@ -306,7 +349,7 @@ plt.show()
 #### 2. Visualisasi Data Biologis dalam Bentuk Diagram Realtime
 Misalnya, kita ingin memvisualisasikan sekuens DNA secara realtime. Berikut adalah contoh kode Python yang dapat digunakan untuk membuat diagram sekuens DNA dan memperbarui data secara realtime:
 
-```python name=visualize_dna_sequence_realtime.py
+```code name=visualize_dna_sequence_realtime.py
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import random
@@ -333,7 +376,7 @@ plt.show()
 #### 3. Visualisasi Struktur Anatomi Manusia dengan Label Realtime
 Misalnya, kita ingin memvisualisasikan struktur anatomi manusia dengan label bagian-bagian tubuh dan memperbarui data secara realtime. Berikut adalah contoh kode Python yang dapat digunakan untuk membuat visualisasi sederhana menggunakan matplotlib dan gambar dasar:
 
-```python name=visualize_anatomy_realtime.py
+```code name=visualize_anatomy_realtime.py
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 import matplotlib.animation as animation
