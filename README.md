@@ -3,7 +3,7 @@ Reyhan Jr. Injector 2.0 by Reyhan alias Reyhan Jr.
 now pairing with AI-Ready and Machines-Ready.
 
 ## Main Works of Reyhan Jr. Injector 2.0
-Reyhan Jr. Injector 2.0 , how it Works,
+Reyhan Jr. Injector 2.0 , how it works,
 ```code
 1. Injection physical address and physical code.
 2. Starting first scanning.
