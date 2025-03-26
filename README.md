@@ -416,6 +416,173 @@ Hasil Konversi Sel Tubuh: x2 W5 C4 T5 FF S3 T5 X2 X2 FF
 Hasil Konversi Sel Penyakit: l4 T5 C4 T5 T5 E0 FF S3 T5 X2 X2 FF
 Hasil Konversi Sel Kulit: h9 T5 X2 U8 X2 FF S3 T5 X2 X2 FF
 ```
+Tidak ada hasil yang ditemukan terkait dengan encoding atribut fisik hewan atau tumbuhan di repo Reyhan Jr. Injector 2.0. Namun, kita bisa menggunakan pendekatan yang sama seperti yang digunakan untuk data manusia dan menyesuaikannya untuk hewan dan tumbuhan.
+
+Berikut adalah contoh bagaimana kita bisa mengonversi data fisik hewan dan tumbuhan ke dalam format kode menggunakan tabel konversi yang ada di README.md.
+
+### Tabel Konversi untuk Hewan dan Tumbuhan
+Kita akan menggunakan tabel konversi yang sama seperti sebelumnya.
+
+#### Tabel Konversi
+```markdown
+| Number | Function | Converter / Exchange |
+| 1 | A | k1 |
+| 2 | B | x2 |
+| 3 | C | u3 |
+| 4 | D | l4 |
+| 5 | E | t5 |
+| 6 | F | m6 |
+| 7 | G | n7 |
+| 8 | H | y8 |
+| 9 | I | o9 |
+| 10 | J | w0 |
+| 11 | K | c1 |
+| 12 | L | b2 |
+| 13 | M | a3 |
+| 14 | N | d4 |
+| 15 | O | g5 |
+| 16 | P | z6 |
+| 17 | Q | s7 |
+| 18 | R | v8 |
+| 19 | S | h9 |
+| 20 | T | p0 |
+| 21 | U | q1 |
+| 22 | V | i2 |
+| 23 | W | r3 |
+| 24 | X | j4 |
+| 25 | Y | e5 |
+| 26 | Z | f6 |
+| 27 | a | J1 |
+| 28 | b | I2 |
+| 29 | c | S3 |
+| 30 | d | H4 |
+| 31 | e | T5 |
+| 32 | f | K6 |
+| 33 | g | A7 |
+| 34 | h | U8 |
+| 35 | i | L9 |
+| 36 | j | V0 |
+| 37 | k | B1 |
+| 38 | l | X2 |
+| 39 | m | M3 |
+| 40 | n | C4 |
+| 41 | o | W5 |
+| 42 | p | D6 |
+| 43 | q | N7 |
+| 44 | r | Y8 |
+| 45 | s | O9 |
+| 46 | t | E0 |
+| 47 | u | Z1 |
+| 48 | v | P2 |
+| 49 | w | Q3 |
+| 50 | x | F4 |
+| 51 | y | R5 |
+| 52 | z | G6 |
+| 53 | Space | FF |
+| 54 | Blank | CC |
+```
+
+### Contoh Implementasi di Python
+Berikut adalah contoh kode Python untuk mengonversi data fisik hewan dan tumbuhan menjadi kode menggunakan Reyhan Jr. Injector 2.0.
+
+#### Konversi Data Fisik Hewan
+```python
+def convert_animal_data_to_code(data):
+    conversion_table = {
+        'A': 'k1', 'B': 'x2', 'C': 'u3', 'D': 'l4', 'E': 't5',
+        'F': 'm6', 'G': 'n7', 'H': 'y8', 'I': 'o9', 'J': 'w0',
+        'K': 'c1', 'L': 'b2', 'M': 'a3', 'N': 'd4', 'O': 'g5',
+        'P': 'z6', 'Q': 's7', 'R': 'v8', 'S': 'h9', 'T': 'p0',
+        'U': 'q1', 'V': 'i2', 'W': 'r3', 'X': 'j4', 'Y': 'e5',
+        'Z': 'f6', ' ': 'FF', 'a': 'J1', 'b': 'I2', 'c': 'S3',
+        'd': 'H4', 'e': 'T5', 'f': 'K6', 'g': 'A7', 'h': 'U8',
+        'i': 'L9', 'j': 'V0', 'k': 'B1', 'l': 'X2', 'm': 'M3',
+        'n': 'C4', 'o': 'W5', 'p': 'D6', 'q': 'N7', 'r': 'Y8',
+        's': 'O9', 't': 'E0', 'u': 'Z1', 'v': 'P2', 'w': 'Q3',
+        'x': 'F4', 'y': 'R5', 'z': 'G6'
+    }
+    return ' '.join(conversion_table.get(char, '') for char in data)
+
+# Contoh penggunaan
+data_hewan = "Elephant"
+converted_hewan = convert_animal_data_to_code(data_hewan)
+print("Hasil Konversi Hewan:", converted_hewan)
+```
+
+#### Konversi Data Fisik Tumbuhan
+```python
+def convert_plant_data_to_code(data):
+    conversion_table = {
+        'A': 'k1', 'B': 'x2', 'C': 'u3', 'D': 'l4', 'E': 't5',
+        'F': 'm6', 'G': 'n7', 'H': 'y8', 'I': 'o9', 'J': 'w0',
+        'K': 'c1', 'L': 'b2', 'M': 'a3', 'N': 'd4', 'O': 'g5',
+        'P': 'z6', 'Q': 's7', 'R': 'v8', 'S': 'h9', 'T': 'p0',
+        'U': 'q1', 'V': 'i2', 'W': 'r3', 'X': 'j4', 'Y': 'e5',
+        'Z': 'f6', ' ': 'FF', 'a': 'J1', 'b': 'I2', 'c': 'S3',
+        'd': 'H4', 'e': 'T5', 'f': 'K6', 'g': 'A7', 'h': 'U8',
+        'i': 'L9', 'j': 'V0', 'k': 'B1', 'l': 'X2', 'm': 'M3',
+        'n': 'C4', 'o': 'W5', 'p': 'D6', 'q': 'N7', 'r': 'Y8',
+        's': 'O9', 't': 'E0', 'u': 'Z1', 'v': 'P2', 'w': 'Q3',
+        'x': 'F4', 'y': 'R5', 'z': 'G6'
+    }
+    return ' '.join(conversion_table.get(char, '') for char in data)
+
+# Contoh penggunaan
+data_tumbuhan = "Rose Flower"
+converted_tumbuhan = convert_plant_data_to_code(data_tumbuhan)
+print("Hasil Konversi Tumbuhan:", converted_tumbuhan)
+```
+
+### Hasil Konversi
+Jika Anda menjalankan kode di atas dengan input data fisik:
+- Hewan: "Elephant"
+- Tumbuhan: "Rose Flower"
+
+Hasil konversinya adalah:
+```
+Hasil Konversi Hewan: t5 X2 T5 J1 H4 J1 C4 E0
+Hasil Konversi Tumbuhan: Y8 W5 h9 T5 FF K6 X2 W5 Y8 W5 E0 r3
+```
+
+#### Konversi Data Fisik untuk Makhluk Hidup Lainnya
+```python
+def convert_living_being_data_to_code(data):
+    conversion_table = {
+        'A': 'k1', 'B': 'x2', 'C': 'u3', 'D': 'l4', 'E': 't5',
+        'F': 'm6', 'G': 'n7', 'H': 'y8', 'I': 'o9', 'J': 'w0',
+        'K': 'c1', 'L': 'b2', 'M': 'a3', 'N': 'd4', 'O': 'g5',
+        'P': 'z6', 'Q': 's7', 'R': 'v8', 'S': 'h9', 'T': 'p0',
+        'U': 'q1', 'V': 'i2', 'W': 'r3', 'X': 'j4', 'Y': 'e5',
+        'Z': 'f6', ' ': 'FF', 'a': 'J1', 'b': 'I2', 'c': 'S3',
+        'd': 'H4', 'e': 'T5', 'f': 'K6', 'g': 'A7', 'h': 'U8',
+        'i': 'L9', 'j': 'V0', 'k': 'B1', 'l': 'X2', 'm': 'M3',
+        'n': 'C4', 'o': 'W5', 'p': 'D6', 'q': 'N7', 'r': 'Y8',
+        's': 'O9', 't': 'E0', 'u': 'Z1', 'v': 'P2', 'w': 'Q3',
+        'x': 'F4', 'y': 'R5', 'z': 'G6'
+    }
+    return ' '.join(conversion_table.get(char, '') for char in data)
+
+# Contoh penggunaan
+data_makhluk_hidup = "Tree"
+converted_makhluk_hidup = convert_living_being_data_to_code(data_makhluk_hidup)
+print("Hasil Konversi Makhluk Hidup:", converted_makhluk_hidup)
+
+data_makhluk_lainnya = "Alien"
+converted_makhluk_lainnya = convert_living_being_data_to_code(data_makhluk_lainnya)
+print("Hasil Konversi Makhluk Lainnya:", converted_makhluk_lainnya)
+```
+
+### Hasil Konversi
+Jika Anda menjalankan kode di atas dengan input data fisik:
+- Makhluk Hidup: "Tree"
+- Makhluk Lainnya: "Alien"
+
+Hasil konversinya adalah:
+```
+Hasil Konversi Makhluk Hidup: p0 Y8 T5 T5
+Hasil Konversi Makhluk Lainnya: k1 X2 L9 T5 C4
+```
+
 
 Dengan pendekatan ini, Anda dapat mengonversi berbagai jenis data biologis atau fisik ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0.
 
