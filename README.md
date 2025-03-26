@@ -1,6 +1,5 @@
-# Reyhan Jr. Injector 2.0 by Reyhan alias Reyhan Jr.
-
-![Logo](https://raw.githubusercontent.com/reyhan-jr-injector/2.0/refs/heads/main/Reyhan%20Jr.%20Injector%202.0.png)
+# New Update Reyhan Jr. Injector 2.0
+by Reyhan alias Reyhan Jr.
 
 ## Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
 
