@@ -582,7 +582,6 @@ Hasil Konversi Makhluk Hidup: p0 Y8 T5 T5
 Hasil Konversi Makhluk Lainnya: k1 X2 L9 T5 C4
 ```
 
-
 Dengan pendekatan ini, Anda dapat mengonversi berbagai jenis data biologis atau fisik ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0.
 
 The **Reyhan Jr. Injector 2.0** is a Tools that provides a system for encoding or converting data and translating or decoding... It includes the following conversion tables:
@@ -629,6 +628,20 @@ Translate or decoding or convert or exchange one-to-another of the kind language
 
 # Repository Information
 These may so executed and contains of folders, file, and system configuration files.
+
+```code
+""
+"."
+".."
+[]
+()
+{}
+[/]
+/
+dist/
+config/
+docs/
+script/
 
 ## Repository Overview
 
