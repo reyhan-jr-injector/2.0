@@ -34,27 +34,17 @@ This script will translate "Hello World!" using the symbolic conversion table an
 
 ## Example of converted or translating of Text.
 Here is the sample of converted text using the Reyhan Jr. Injector 2.0 conversion tables:
-
-**Sample Text 1:** These sample questions and answers can give you a good starting point to understand the content of the README.md
-
-### Conversion Using Reyhan Jr. Injector 2.0 :
-
-**Results Converted Sample Text 1 :** 
-```
-T5 h8 e0 s3 FF s1 a8 m5 p2 l5 e0 FF q5 u8 e0 s3 t5 i9 o9 n7 s3 FF a8 n7 d9 FF a1 n7 s3 w8 e0 r5 s3 FF c4 a8 n7 FF g5 i9 v8 e0 FF y8 o9 u8 FF a1 FF g5 o9 o9 d9 FF s3 t5 a8 r5 t5 i9 n7 g5 FF p2 o9 i9 n7 t5 FF t5 o9 FF u8 n7 d9 e0 r5 s3 t5 a8 n7 d9 FF t5 h8 e0 FF c4 o9 n7 t5 e0 n7 t5 FF o9 f9 FF t5 h8 e0 FF R5 E0 A8 D9 M5 E0 FF D9
-```
-**Sample Text 2:** so grateful to recognize and know one another since at very early from first time even family of plants tree
-
-**Results Converted Sample Text 2 :** 
-```
-s3 c4 FF a7 n7 a1 d9 t5 x6 e0 l5 FF d9 c4 FF n7 t5 s3 c4 a7 m3 9 d6 t5 FF a1 m3 h4 FF k1 m3 c4 p2 FF c4 m3 t5 FF a1 m3 c4 d9 j8 t5 n7 FF s3 9 m3 s3 t5 FF a1 d9 FF q3 t5 n7 r5 FF t5 a1 n7 l5 r5 FF x6 n7 c4 m2 FF x6 9 n7 s3 d9 FF d9 9 m2 t5 FF t5 q3 t5 n7 r5 FF t5 a1 n7 l5 r5 FF x6 n7 c4 m2 FF x6 9 n7 s3 d9 FF d9 9 m2 t5 FF t5 q3 t5 n7 r5 FF x6 a1 m2 9 l5 r5 FF c4 x6 FF m5 l5 a1 m3 d9 s3 FF d9 n7 t5 t5
+```code
+sample: Saya Reyhan alias Reyhan Jr.
+results: h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq
 ```
 
 This conversion uses the tables provided in the README.md file to map each character to its corresponding code.
+
 ```code
 Transform or also translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by any formats purpose by our powerful tools by processing with on your own platform.
-
 ```
+
 Translate or decoding or convert or exchange one-to-another of the kind languages without additional act with Reyhan Jr. Injector 2.0 by Reyhan alias Reyhan Jr.
 
 # Repository Information
