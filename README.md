@@ -244,8 +244,7 @@ Reyhan Jr. Injector 2.0 adalah alat yang menyediakan sistem untuk encode atau me
 
 7. **Fitur Tambahan / Lainnya:**
    - Kemampuan kalkulasi dan pemrograman untuk analisis data yang lebih kompleks.
-
-### Contoh Implementasi
+8.   **Mengonversi:** Mengkonversi data fisik biologis seperti menjadi sekuens ke dalam kode khusus, dan kemudian menerjemahkannya untuk analisis lebih lanjut
 
 #### Konversi Teks ke Kode di Python :
 ```python
