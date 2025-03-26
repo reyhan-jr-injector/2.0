@@ -408,7 +408,7 @@ The **Reyhan Jr. Injector 2.0** is a Tools that provides a system for encoding o
 - **Alphabet Conversion Table:** Maps letters of the alphabet to specific codes, such as `A -> k1`, `B -> x2`, etc.
 - **Numeric Conversion Table:** Maps numbers to specific codes, such as `0 -> WW`, `1 -> GG`, etc.
 - **Symbolic Conversion Table:** Maps various symbols and functions to specific codes, such as `Alphabet/Word/QWORD/DWORD/Float/String/Text/Array of String -> 5v`, `Numeric/Number/Decimal/Byte/HEX/BIN/Array of Byte -> 6w`.
-- - **Code Conversion Table:**
+- **Code Conversion Table:**
 Maps various code or codes and functions to specific code or codes.
 
 This tool is designed to translate standard characters, numbers, and symbols into a set of custom codes, which might be used for specialized applications or encryption purposes. The notebook is well-structured and provides clear mappings that can be easily referenced.
