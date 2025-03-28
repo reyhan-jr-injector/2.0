@@ -64,6 +64,7 @@ TODO: Describe and show how to build, deploy your code and run the tests.
 # Reyhan Jr. Physical and Physical Address Injector and Converter/Exchange Code 2.0
 
 Reyhan Jr. Injector 2.0 by Reyhan alias Reyhan Jr. is now pairing with AI-Ready and Machines-Ready.
+Well noted, These conversion uses the tables provided in section, file to map by space each character to interaction corresponding code.
 
 ```code
 Name Long = Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
@@ -265,7 +266,7 @@ Symbolic = 115 Row
 | 115 | € | 6F |
 ```
 
-These conversion uses the tables provided in the README.md, file to map each character to its interaction interactive corresponding code.
+
 
 ```code
 Transform or also translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by any formats purpose by our powerful tools by processing with on their own platform with their own instrument to used.
