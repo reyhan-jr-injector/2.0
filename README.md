@@ -146,7 +146,7 @@ Numeric = 11 Row
 
 
 
-# Symbolic = 115 Row
+Symbolic = 115 Row
 | Number | Function | Converter / Exchange |
 | 1 | Alphabet/Word/QWORD/DWORD/Float/String/Text/Array of String | 5v |
 | 2 | Numeric/Number/Decimal/Byte/HEX/BIN/Array of Byte | 6w |
