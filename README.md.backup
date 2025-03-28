@@ -1097,11 +1097,10 @@ sample text: Saya Reyhan alias Reyhan Jr.
 results convert: h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq
 ```
 
-
-## How to use, for example at Jupyter Notebook:
+## How to checkout use, for example with Jupyter Notebook:
 1. Clone the repository:
     ```sh
-    git clone https://github.com/reyhan-jr-injector/reyhan-jr-injector.github.io.git
+    git clone https://github.com/reyhan-jr-injector/reyhan-jr-injector.github.io.git /path/dir
     ```
 2. Navigate to the repository directory:
     ```sh
@@ -1112,6 +1111,25 @@ results convert: h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   
     jupyter notebook "Reyhan Jr. Injector 2.0.ipynb"
     ```
 4. Run the cells in the notebook to verify that it works accurate and correctly.
+
+## How to checkout use, for example with various languages:
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/reyhan-jr-injector/reyhan-jr-injector.github.io.git /path/dir
+    ```
+2. Navigate to the repository directory:
+    ```sh
+    cd reyhan-jr-injector.github.io
+    ```
+3. Open the file using Jupyter Notebook or JupyterLab or python or various of code by supporting opening :
+    ```sh
+    [AutoRun] "README.md"
+    ```
+4. Running the cells in the notebook or the kind various language to verify that it works accurate and correctly.
+
+5. Auto-generated file contents for README files
+For the rendered view of any Markdown file in a repository, including README files, GitHub will automatically generate a file of contents based on section.
+
 
 ## Additional features
 Features
@@ -1140,7 +1158,8 @@ Just because you're near or here after realize as recognize and know, and the di
 ## Immediately call or reply response?
 Reyhan Phone: +6281389648797
 
-## wonderful hosting
+
+## hosted! Wonderfully made hosting by ❤️
 di hosting dengan hati penuh mengasihi dan menyayangi dengan sedikit cinta ❤️
 
 
