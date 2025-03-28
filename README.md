@@ -271,20 +271,17 @@ Transform or also translating or decoding or convert or exchange your one-to-ano
 #### Berikut contoh sampel serta berbagai Fitur-fitur lain di gunakan dalam berbagai kebutuhan dan keperluan lainnya di dalam penggunaan Reyhan Jr. Injector 2.0 :
 1. **Konversi Teks ke Kode:**
    - Menggunakan tabel konversi untuk mengonversi teks biasa ke dalam kode khusus.
-   - Contoh: Mengonversi "Hello World!" menjadi
-```code
-"y8 T5 X2 X2 W5 FF r3 W5 Y8 X2 H4 Pm".
-```
+   - Contoh: Mengonversi "Hello World!" menjadi:
+"y8 T5 X2 X2 W5 FF r3 W5 Y8 X2 H4 Pm"
 
 2. **Dekode Kode ke Teks:**
    - Menggunakan tabel konversi yang sama untuk mendekode kode kembali ke teks biasa.
-   - Contoh: Mengonversi "y8 T5 X2 X2 W5 FF r3 W5 Y8 X2 H4 Pm" kembali ```code
-     Menjadi "Hello World!"
-```
+   - Contoh: Mengonversi: "y8 T5 X2 X2 W5 FF r3 W5 Y8 X2 H4 Pm" kembali
+     Menjadi: "Hello World!"
 
 3. **Konversi Kode ke Bahasa Manusia:**
    - Menerjemahkan kode yang sudah dikonversi ke dalam berbagai bahasa manusia, seperti Minangkabau, Betawi, Batak, Jawa, Sunda, dan lainnya.
-   - Contoh: Mengonversi "k1 n7 u3 p0 p0 k1 u3 n7" menjadi "Aku cinta kamu" dalam bahasa Jawa.
+   - Contoh: Mengonversi "k1 n7 u3 p0 p0 k1 u3 n7" menjadi: "Aku cinta kamu" dalam bahasa Jawa.
 
 4. **Konversi dan Penyusunan Data Biologis:**
    - Mengonversi data biologis seperti sekuens DNA atau RNA ke dalam kode khusus, dan kemudian menerjemahkannya untuk analisis lebih lanjut.
@@ -292,7 +289,7 @@ Transform or also translating or decoding or convert or exchange your one-to-ano
 
 5. **Konversi Data Simbolik:**
    - Mengonversi data simbolik seperti representasi virus atau struktur kimia ke dalam kode khusus untuk tujuan penelitian atau enkripsi.
-   - Contoh: Mengonversi sekuens genetik SARS-CoV-2 menjadi "k1 n7 u3 p0 p0 k1 u3 n7".
+   - Contoh: Mengonversi sekuens genetik SARS-CoV-2 menjadi: "k1 n7 u3 p0 p0 k1 u3 n7".
 
 6. **Sinkronisasi Data Waktu dan Tanggal:**
    - Menyediakan fitur sinkronisasi waktu dan tanggal dunia untuk memastikan data yang dikonversi selalu akurat dan up-to-date.
@@ -306,18 +303,15 @@ Transform or also translating or decoding or convert or exchange your one-to-ano
 
 
 ### Contoh Hasil Teks kalimat "Saya Reyhan alias Reyhan Jr." ke Kode :
-Hasil dikonversinya menjadi: "h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq"
+```code
+"h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq"
 ```
 
 ### Contoh Hasil Konversi kode ke data dengan input data fisik:
 - Hewan: "Elephant"
 - Tumbuhan: "Rose Flower"
-
-Hasil konversinya adalah:
-```code
-Hasil Konversi Hewan: t5 X2 T5 J1 H4 J1 C4 E0
-Hasil Konversi Tumbuhan: Y8 W5 h9 T5 FF K6 X2 W5 Y8 W5 E0 r3
-```
+Hasil Konversi Hewan: "t5 X2 T5 J1 H4 J1 C4 E0"
+Hasil Konversi Tumbuhan: "Y8 W5 h9 T5 FF K6 X2 W5 Y8 W5 E0 r3"
 
 ## Untuk memberikan contoh nyata dari konversi data fisik tubuh manusia ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0, kita dapat menggunakan data biologis seperti sekuens DNA atau RNA. 
 Berikut adalah contoh berbagai kode bahasa untuk mengonversi sekuens DNA, RNA serta lainnya menjadi kode menggunakan Reyhan Jr. Injector 2.0.
@@ -330,13 +324,12 @@ Untuk contoh ini, kita akan menggunakan konversi sederhana untuk empat nukleotid
 - Guanin (G)
 
 Berikut dikonversikan menjadi:
-```code
+
 | Number | Function | Converter / Exchange |
 | 1 | A | k1 |
 | 2 | T | p0 |
 | 3 | C | u3 |
 | 4 | G | n7 |
-```
 
 
 Dengan pendekatan ini, Anda dapat konversi dan dikonversi berbagai macam jenis data, data biologis, data Genetik, data Organik atau fisik serta berbagai alamat fisik dan berbagai lainnya ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0.
