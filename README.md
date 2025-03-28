@@ -67,12 +67,12 @@ Reyhan Jr. Injector 2.0 by Reyhan alias Reyhan Jr. is now pairing with AI-Ready 
 Well noted, These conversion uses the tables provided in section, file to map by space each character to interaction corresponding code.
 
 ```code
-Name Long = Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
-Name Short = Reyhan Jr. Injector 2.0
+Name: Reyhan Jr. Physical Injector,  Physical Address Injector also Converter/Exchange Code 2.0
+Short: Reyhan Jr. Injector 2.0
 
 
 
-Alphabet = 54 Row
+Alphabet: 54 Row
 | Number | Function | Converter / Exchange |
 | 1 | A | k1 |
 | 2 | B | x2 |
@@ -131,7 +131,7 @@ Alphabet = 54 Row
 
 
 
-Numeric = 11 Row
+Numeric: 11 Row
 | Number | Function | Converter / Exchange |
 | 1 | 0 | WW |
 | 2 | 1 | GG |
@@ -147,7 +147,7 @@ Numeric = 11 Row
 
 
 
-Symbolic = 115 Row
+Symbolic: 115 Row
 | Number | Function | Converter / Exchange |
 | 1 | Alphabet/Word/QWORD/DWORD/Float/String/Text/Array of String | 5v |
 | 2 | Numeric/Number/Decimal/Byte/HEX/BIN/Array of Byte | 6w |
@@ -266,11 +266,7 @@ Symbolic = 115 Row
 | 115 | € | 6F |
 ```
 
-
-
-```code
-Transform or also translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by any formats purpose by our powerful tools by processing with on their own platform with their own instrument to used.
-```
+Transform or also translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by any formats purpose by our powerful tools by processing with on your own or even their own of platform with your own. else, on their own might be used.
 
 #### Berikut contoh sampel serta berbagai Fitur-fitur lain di gunakan dalam berbagai kebutuhan dan keperluan lainnya di dalam penggunaan Reyhan Jr. Injector 2.0 :
 1. **Konversi Teks ke Kode:**
@@ -282,7 +278,9 @@ Transform or also translating or decoding or convert or exchange your one-to-ano
 
 2. **Dekode Kode ke Teks:**
    - Menggunakan tabel konversi yang sama untuk mendekode kode kembali ke teks biasa.
-   - Contoh: Mengonversi "y8 T5 X2 X2 W5 FF r3 W5 Y8 X2 H4 Pm" kembali menjadi "Hello World!".
+   - Contoh: Mengonversi "y8 T5 X2 X2 W5 FF r3 W5 Y8 X2 H4 Pm" kembali ```code
+     Menjadi "Hello World!"
+```
 
 3. **Konversi Kode ke Bahasa Manusia:**
    - Menerjemahkan kode yang sudah dikonversi ke dalam berbagai bahasa manusia, seperti Minangkabau, Betawi, Batak, Jawa, Sunda, dan lainnya.
