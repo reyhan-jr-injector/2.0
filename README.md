@@ -1,5 +1,5 @@
-## It's by Wonderfully made hosting by ❤
-TODO: Di hosting dengan hati yang penuh dengan mengasihi dan menyayangi dengan sedikit hati dan cinta.
+## Wonderfully made hosting by ❤
+DOSOMETHING: Dihosting dengan hati yang dengan mengasihi dan menyayangi serta sedikit perasaan hati dan cinta. 🥹
 
 # Introduction about Reyhan :
 TODO: Get to Known on your or their own memory of memories by well, about of Reyhan alias Reyhan Jr. the man of over precedence,  Give a short introduction of your project. Let this section explain how attracted personality the posses or the motivation behind this project. 
@@ -13,7 +13,7 @@ TODO: Guide users through getting your code up and running to keep everything is
 2.	Software dependencies
 3.	Latest releases
 4.	References
-5.   Act and Purposes
+5. Act and Purposes
 
 ## Reyhan Jr. Injector 2.0 , how it works,
 ```code
