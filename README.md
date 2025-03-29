@@ -13,7 +13,7 @@ TODO: Guide users through getting your code up and running to keep everything is
 2.	Software dependencies
 3.	Latest releases
 4.	References
-5.   Act and Purposes
+5. Act and Purposes
 
 ## Reyhan Jr. Injector 2.0 , how it works,
 ```code
@@ -67,7 +67,7 @@ Reyhan Jr. Injector 2.0 by Reyhan alias Reyhan Jr. is now pairing with AI-Ready 
 
 ```code
 Name Long = Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
-Name Short = Reyhan Jr. Injector 2.0
+Name Short = Reyhan Jr. Injector or Reyhan Jr. Injector 2.0
 
 
 
