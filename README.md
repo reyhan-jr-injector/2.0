@@ -13,7 +13,7 @@ TODO: Guide users through getting your code up and running to keep everything is
 2.	Software dependencies
 3.	Latest releases
 4.	References
-5.   Act and Purposes
+5. Act and Purposes
 
 ## Reyhan Jr. Injector 2.0 , how it works,
 ```code
@@ -281,7 +281,8 @@ These conversion uses the tables provided in the README.md, file to map each cha
 Transform or also translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by any formats purpose by our powerful tools by processing with on their own platform with their own instrument to used.
 ```
 
-#### Berikut contoh sampel serta berbagai Fitur-fitur lain di gunakan dalam berbagai kebutuhan dan keperluan lainnya di dalam penggunaan Reyhan Jr. Injector 2.0 :
+## Berikut contoh serta berbagai Fitur-fitur:
+Digunakan dalam berbagai kebutuhan dan keperluan lainnya di dalam penggunaan Reyhan Jr. Injector 2.0 :
 1. **Konversi Teks ke Kode:**
    - Menggunakan tabel konversi untuk mengonversi teks biasa ke dalam kode khusus.
    - Contoh: Mengonversi "Hello World!" menjadi:
@@ -314,7 +315,7 @@ Transform or also translating or decoding or convert or exchange your one-to-ano
    - Kemampuan kalkulasi dan pemrograman untuk analisis data yang akurat, tepat serta lebih kompleks.
    - Konversi dan Dikonversi ke dalam data: fisik, alamat fisik, kode fisik, data fisik, data, data biologis, data genetik, data organik, serta data-data lainnya menjadi sebuah data dengan kode khusus atau sekuens ke dalam data dengan kode khusus ke dalam Reyhan Jr. Injector, kemudian menerjemahkannya untuk analisa lanjutan
    - Konversi dan Dikonversi data dengan kode khusus atau sequens: fisik, alamat fisik, kode fisik, data fisik, data, data biologis, data genetik, data organik, serta data-data lainnya menjadi sebuah data dengan kode khusus atau sekuens ke dalam data dengan kode khusus ke dalam Reyhan Jr. Injector, kemudian menerjemahkannya untuk analisa lanjutan
-   - Konversi dan Dikonversi Data Makhluk dan Makhluk Hidup ke kode data Reyhan Jr. Injector kemudian di artikan oleh Reyhan Jr. Injector / Reyhan Jr. Injector 2.0.
+   - Konversi dan Dikonversi Data Makhluk dan Makhluk Hidup ke format kode data, kemudian di artikan oleh Reyhan Jr. Injector / Reyhan Jr. Injector 2.0.
 
 
 ### Contoh Hasil Konversi kode ke data dengan input data fisik:
