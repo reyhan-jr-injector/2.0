@@ -13,7 +13,7 @@ TODO: Guide users through getting your code up and running to keep everything is
 2.	Software dependencies
 3.	Latest releases
 4.	References
-5. Act and Purposes
+5.   Act and Purposes
 
 ## Reyhan Jr. Injector 2.0 , how it works,
 ```code
@@ -275,14 +275,13 @@ Hasil dikonversinya ke format Reyhan Jr. Injector 2.0 menjadi:
 "h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq"
 ```
 
-These conversion uses the tables provided in the README.md, file to map each character to its interaction interactive corresponding code.
+These conversion uses the tables provided in the README.md, file to map each character to its interaction corresponding code.
 
 ```code
-Transform or also translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by any formats purpose by our powerful tools by processing with on their own platform with their own instrument to used.
+Transform or translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by any formats purpose by our powerful tools by processing with on their own platform with their own instrument to used.
 ```
 
-## Berikut contoh serta berbagai Fitur-fitur:
-Digunakan dalam berbagai kebutuhan dan keperluan lainnya di dalam penggunaan Reyhan Jr. Injector 2.0 :
+#### Berikut contoh sampel serta berbagai Fitur-fitur lain di gunakan dalam berbagai kebutuhan dan keperluan lainnya di dalam penggunaan Reyhan Jr. Injector 2.0 :
 1. **Konversi Teks ke Kode:**
    - Menggunakan tabel konversi untuk mengonversi teks biasa ke dalam kode khusus.
    - Contoh: Mengonversi "Hello World!" menjadi:
@@ -294,7 +293,7 @@ Digunakan dalam berbagai kebutuhan dan keperluan lainnya di dalam penggunaan Rey
 
 3. **Konversi Kode ke Bahasa Manusia:**
    - Menerjemahkan kode yang sudah dikonversi ke dalam berbagai bahasa manusia, seperti Minangkabau, Betawi, Batak, Jawa, Sunda, dan lainnya.
-   - Contoh: Mengonversi "k1 n7 u3 p0 p0 k1 u3 n7" menjadi "Aku cinta kamu" dalam bahasa Jawa.
+   - Contoh: Mengonversi "k1  n7  u3  p0  p0  k1  u3  n7" menjadi "Aku cinta kamu" dalam bahasa Jawa.
 
 4. **Konversi dan Penyusunan Data Biologis:**
    - Mengonversi data biologis seperti sekuens DNA atau RNA ke dalam kode khusus, dan kemudian menerjemahkannya untuk analisis lebih lanjut.
@@ -314,8 +313,8 @@ Digunakan dalam berbagai kebutuhan dan keperluan lainnya di dalam penggunaan Rey
 ## Kemampuan lainnya:
    - Kemampuan kalkulasi dan pemrograman untuk analisis data yang akurat, tepat serta lebih kompleks.
    - Konversi dan Dikonversi ke dalam data: fisik, alamat fisik, kode fisik, data fisik, data, data biologis, data genetik, data organik, serta data-data lainnya menjadi sebuah data dengan kode khusus atau sekuens ke dalam data dengan kode khusus ke dalam Reyhan Jr. Injector, kemudian menerjemahkannya untuk analisa lanjutan
-   - Konversi dan Dikonversi data dengan kode khusus atau sequens: fisik, alamat fisik, kode fisik, data fisik, data, data biologis, data genetik, data organik, serta data-data lainnya menjadi sebuah data dengan kode khusus atau sekuens ke dalam data dengan kode khusus ke dalam Reyhan Jr. Injector, kemudian menerjemahkannya untuk analisa lanjutan
-   - Konversi dan Dikonversi Data Makhluk dan Makhluk Hidup ke format kode data, kemudian di artikan oleh Reyhan Jr. Injector / Reyhan Jr. Injector 2.0.
+   - Konversi dan Dikonversi data dengan kode khusus atau sequens: fisik, alamat fisik, kode fisik, data fisik, data, data biologis, data genetik, data organik, serta data-data lainnya menjadi sebuah data dengan kode khusus atau sekuens ke dalam data dengan kode khusus ke dalam format Reyhan Jr. Injector, kemudian menerjemahkannya untuk analisa lanjutan
+   - Konversi dan Dikonversi Data Makhluk dan Makhluk Hidup ke kode data Reyhan Jr. Injector kemudian di artikan oleh Reyhan Jr. Injector / Reyhan Jr. Injector 2.0.
 
 
 ### Contoh Hasil Konversi kode ke data dengan input data fisik:
@@ -324,21 +323,21 @@ Digunakan dalam berbagai kebutuhan dan keperluan lainnya di dalam penggunaan Rey
 
 Hasil konversinya adalah:
 ```code
-Hasil Konversi Hewan: t5 X2 T5 J1 H4 J1 C4 E0
-Hasil Konversi Tumbuhan: Y8 W5 h9 T5 FF K6 X2 W5 Y8 W5 E0 r3
+Hasil Konversi Hewan: t5  X2  T5  J1  H4  J1  C4  E0
+Hasil Konversi Tumbuhan: Y8  W5  h9  T5  FF  K6  X2  W5  Y8  W5  E0  r3
 ```
 
 ## Untuk memberikan contoh nyata dari konversi data fisik tubuh manusia ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0, kita dapat menggunakan data biologis seperti sekuens DNA atau RNA. 
 Berikut adalah contoh berbagai kode bahasa untuk mengonversi sekuens DNA, RNA serta lainnya menjadi kode menggunakan Reyhan Jr. Injector 2.0.
 
 ### Konversi untuk Nukleotida DNA
-Untuk contoh ini, kita akan menggunakan konversi sederhana untuk empat nukleotida DNA:
+Berikut contoh ini, kita akan menggunakan konversi sederhana untuk empat nukleotida DNA:
 - Adenin (A)
 - Timin (T)
 - Sitosin (C)
 - Guanin (G)
 
-Berikut dikonversikan menjadi:
+Berikut hasil dikonversikan ke format Reyhan Jr. Injector 2.0 :
 ```code
 | Number | Function | Converter / Exchange |
 | 1 | A | k1 |
