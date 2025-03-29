@@ -292,12 +292,9 @@ TODO: Describe and show how to build, deploy your code and run the tests.
 
 3. **Konversi Kode ke Bahasa Manusia:**
    - Menerjemahkan kode yang sudah dikonversi ke dalam berbagai bahasa manusia, seperti Minangkabau, Betawi, Batak, Jawa, Sunda, dan lainnya.
-   - Contoh: Mengonversi "k1  n7  u3  p0  p0  k1  u3  n7" menjadi "Aku cinta kamu" dalam bahasa Jawa.
 
 4. **Konversi dan Penyusunan Data Biologis:**
    - Mengonversi data biologis seperti sekuens DNA atau RNA ke dalam kode khusus, dan kemudian menerjemahkannya untuk analisis lebih lanjut.
-   - Contoh: Mengonversi sekuens DNA:
- "AGCTTACG" menjadi "k1  n7  u3  p0  p0  k1  u3  n7".
 
 5. **Konversi Data Simbolik:**
    - Mengonversi data simbolik seperti representasi virus atau struktur kimia ke dalam kode khusus untuk tujuan penelitian atau enkripsi.
