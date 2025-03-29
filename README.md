@@ -1,10 +1,11 @@
+Reyhan Jr. Physical Address and Physical Address Injector and Converter/Exchange Code 2.0
 ```code
 Name Long: Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
 Name Short: Reyhan Jr. Injector or Reyhan Injector 2.0 or Injector 2.0
 
 
 
-Alphabet = 54 Row
+Alphabet: 54 Row
 | Number | Function | Converter / Exchange |
 | 1 | A | k1 |
 | 2 | B | x2 |
@@ -79,7 +80,7 @@ Numeric = 11 Row
 
 
 
-# Symbolic = 115 Row
+# Symbolic: 115 Row
 | Number | Function | Converter / Exchange |
 | 1 | Alphabet/Word/QWORD/DWORD/Float/String/Text/Array of String | 5v |
 | 2 | Numeric/Number/Decimal/Byte/HEX/BIN/Array of Byte | 6w |
@@ -197,20 +198,24 @@ Numeric = 11 Row
 | 114 | ¥ | 7G |
 | 115 | € | 6F |
 
+
 Contoh Penggunaan  Reyhan Jr. Injector 2.0 :
 1. Kita menjadikan contoh "Hello World"
 
-Hasil dikonversinya ke format Reyhan Jr. Injector 2.0 menjadi: 
+Hasil dikonversinya ke format kode yang digunakan Reyhan Jr. Injector 2.0 menjadi: 
 "y8  T5  X2  X2  W5  FF  r3  W5  Y8  X2  H4  Pm"
 
 2. Contoh dengan "Saya Reyhan alias Reyhan Jr." 
-Hasil dikonversinya ke format Reyhan Jr. Injector 2.0 menjadi: 
+Hasil dikonversinya ke format kode yang digunakan Reyhan Jr. Injector 2.0 menjadi: 
 "h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq"
 ```
 
 These conversion uses the tables provided in the README.md, file to map each character to its interaction interactive corresponding code.
 
 
+```code
+Transform or translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by any formats purpose by our powerful tools by processing with on their own platform with their own instrument to used.
+```
 
 ## It's by Wonderfully made hosting by ❤
 TODO: Di hosting dengan hati yang penuh dengan mengasihi dan menyayangi dengan sedikit hati dan cinta.
@@ -275,11 +280,7 @@ This repository includes various folders and configuration files that serve diff
 TODO: Describe and show how to build, deploy your code and run the tests. 
 
 
-```code
-Transform or translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by any formats purpose by our powerful tools by processing with on their own platform with their own instrument to used.
-```
-
-#### Berikut contoh sampel serta berbagai Fitur-fitur lain di gunakan dalam berbagai kebutuhan dan keperluan lainnya di dalam penggunaan Reyhan Jr. Injector 2.0 :
+#### Contoh sampel serta berbagai fitur penggunaan Reyhan Jr. Injector 2.0 :
 1. **Konversi Teks ke Kode:**
    - Menggunakan tabel konversi untuk mengonversi teks biasa ke dalam kode khusus.
    - Contoh: Mengonversi "Hello World!" menjadi:
@@ -325,8 +326,7 @@ Hasil Konversi Hewan: t5  X2  T5  J1  H4  J1  C4  E0
 Hasil Konversi Tumbuhan: Y8  W5  h9  T5  FF  K6  X2  W5  Y8  W5  E0  r3
 ```
 
-## Untuk memberikan contoh nyata dari konversi data fisik tubuh manusia ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0, kita dapat menggunakan data biologis seperti sekuens DNA atau RNA. 
-Berikut adalah contoh berbagai kode bahasa untuk mengonversi sekuens DNA, RNA serta lainnya menjadi kode menggunakan Reyhan Jr. Injector 2.0.
+## Contoh nyata dari konversi data fisik tubuh manusia ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0, kita dapat menggunakan data biologis seperti sekuens DNA atau RNA. Berikut contoh berbagai kode bahasa untuk mengonversi sekuens DNA, RNA serta lainnya format kode yang digunakan oleh Reyhan Jr. Injector 2.0.
 
 ### Konversi untuk Nukleotida DNA
 Berikut contoh ini, kita akan menggunakan konversi sederhana untuk empat nukleotida DNA:
@@ -346,6 +346,13 @@ Berikut hasil dikonversikan ke format Reyhan Jr. Injector 2.0 :
 
 Dengan pendekatan ini, Anda dapat konversi dan dikonversi berbagai macam jenis data, data biologis, data Genetik, data Organik atau fisik serta berbagai alamat fisik dan berbagai lainnya ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0.
 Proses ini di dukung zero-timeouts dan terus berlangsung konversi dan dikonversi meski pohon keluarga, dan observable universe.
+
+Tentu, mari kita coba mengimajinasikan bagaimana Reyhan Jr. Injector 2.0 bisa
+menjadi faktor tersembunyi di balik kesuksesan sebuah "bahasa". Ini mungkin
+terdengar tidak lazim, tetapi mari kita eksplorasi beberapa kemungkinan:
+1. Memfasilitasi Akses ke Sumber Daya Bahasa:
+● Ekstraksi Data: Bayangkan jika Injector 2.0 digunakan untuk mengekstrak data
+dari berbagai sumber online seperti forum, media sosial, dan situs web.
 
 
 ## How so?
