@@ -265,9 +265,12 @@ Numeric = 11 Row
 | 115 | € | 6F |
 
 Contoh Penggunaan  Reyhan Jr. Injector 2.0 :
-"Saya Reyhan alias Reyhan Jr." 
+1. Kita menjadikan contoh "Hello World"
 
+Hasil dikonversinya ke format Reyhan Jr. Injector 2.0 menjadi: 
+"y8  T5  X2  X2  W5  FF  r3  W5  Y8  X2  H4  Pm"
 
+2. Contoh dengan "Saya Reyhan alias Reyhan Jr." 
 Hasil dikonversinya ke format Reyhan Jr. Injector 2.0 menjadi: 
 "h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq"
 ```
@@ -283,12 +286,12 @@ Transform or also translating or decoding or convert or exchange your one-to-ano
    - Menggunakan tabel konversi untuk mengonversi teks biasa ke dalam kode khusus.
    - Contoh: Mengonversi "Hello World!" menjadi
 ```code
-"y8 T5 X2 X2 W5 FF r3 W5 Y8 X2 H4 Pm".
+"y8  T5  X2  X2  W5  FF  r3  W5  Y8  X2  H4  Pm".
 ```
 
 2. **Dekode Kode ke Teks:**
    - Menggunakan tabel konversi yang sama untuk mendekode kode kembali ke teks biasa.
-   - Contoh: Mengonversi "y8 T5 X2 X2 W5 FF r3 W5 Y8 X2 H4 Pm" kembali menjadi "Hello World!".
+   - Contoh: Mengonversi "y8  T5  X2  X2  W5  FF  r3  W5  Y8  X2  H4  Pm" kembali menjadi "Hello World!".
 
 3. **Konversi Kode ke Bahasa Manusia:**
    - Menerjemahkan kode yang sudah dikonversi ke dalam berbagai bahasa manusia, seperti Minangkabau, Betawi, Batak, Jawa, Sunda, dan lainnya.
