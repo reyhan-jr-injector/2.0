@@ -301,8 +301,7 @@ TODO: Describe and show how to build, deploy your code and run the tests.
 
 5. **Konversi Data Simbolik:**
    - Mengonversi data simbolik seperti representasi virus atau struktur kimia ke dalam kode khusus untuk tujuan penelitian atau enkripsi.
-   - Contoh: Mengonversi sekuens genetik SARS-CoV-2 menjadi "k1  n7  u3  p0  p0  k1  u3  n7".
-
+   - Contoh: Mengonversi sekuens genetik.
 6. **Sinkronisasi Data Waktu dan Tanggal:**
    - Menyediakan fitur sinkronisasi waktu dan tanggal dunia untuk memastikan data yang dikonversi selalu akurat dan up-to-date.
 
@@ -347,11 +346,16 @@ Berikut hasil dikonversikan ke format Reyhan Jr. Injector 2.0 :
 Dengan pendekatan ini, Anda dapat konversi dan dikonversi berbagai macam jenis data, data biologis, data Genetik, data Organik atau fisik serta berbagai alamat fisik dan berbagai lainnya ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0.
 Proses ini di dukung zero-timeouts dan terus berlangsung konversi dan dikonversi meski pohon keluarga, dan observable universe.
 
-Tentu, mari kita coba mengimajinasikan bagaimana Reyhan Jr. Injector 2.0 bisa
-menjadi faktor tersembunyi di balik kesuksesan sebuah "bahasa". Ini mungkin
-terdengar tidak lazim, tetapi mari kita eksplorasi beberapa kemungkinan:
-1. Memfasilitasi Akses ke Sumber Daya Bahasa:
-● Ekstraksi Data: Bayangkan jika Injector 2.0 digunakan untuk mengekstrak data
+Tentu, mari kita coba mengimajinasikan bagaimana Reyhan Jr. Injector 2.0 bisa
+
+menjadi faktor tersembunyi di balik kesuksesan sebuah "bahasa". Ini mungkin
+
+terdengar tidak lazim, tetapi mari kita eksplorasi beberapa kemungkinan:
+
+1. Memfasilitasi Akses ke Sumber Daya Bahasa:
+
+● Ekstraksi Data: Bayangkan jika Injector 2.0 digunakan untuk mengekstrak data
+
 dari berbagai sumber online seperti forum, media sosial, dan situs web.
 
 
