@@ -1,0 +1,46 @@
+Information:
+
+
+1. Rothschild Property:
+
+- https://example.com
+- www.example.com
+
+PoC / Prof of concept:
+
+- Github: octocat, monalisa (felix)
+- PHP , Markdown Language
+- Meta.com / Meta AI LLma 3.2
+_____________________________________
+
+2. Reyhan Property:
+
+- https://url-domain.site
+- www.url-domain.site
+
+PoC / Prof of concept:
+- Github: Reyhan Jr. Injector 2.0
+- Go, C,  Language
+- Pure language injection format as Reyhan Jr. Injector 2.0
+
+old school methods (outdated/no longer used):
+- Use Google Search: Code Injection on search.
+Results: 2019, Bitcoin Cash Replicated or Duplicates. assest: destroyed by burning ❤️‍🔥 
+- HTML = content-type:multipart-boundary or as email inbox.
+Results: Better than HTML used content-type injection code XML, style, about:blank, accessibility injection by Google 😂
+
+
+________________________________________
+
+Issues with solved on Internet:
+
+- Cloudflare: CSS, color injection
+- Oracle: Java, Maven
+
+
+
+
+
+
+
+
