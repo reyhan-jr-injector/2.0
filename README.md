@@ -284,10 +284,8 @@ Transform or also translating or decoding or convert or exchange your one-to-ano
 #### Berikut contoh sampel serta berbagai Fitur-fitur lain di gunakan dalam berbagai kebutuhan dan keperluan lainnya di dalam penggunaan Reyhan Jr. Injector 2.0 :
 1. **Konversi Teks ke Kode:**
    - Menggunakan tabel konversi untuk mengonversi teks biasa ke dalam kode khusus.
-   - Contoh: Mengonversi "Hello World!" menjadi
-```code
+   - Contoh: Mengonversi "Hello World!" menjadi:
 "y8  T5  X2  X2  W5  FF  r3  W5  Y8  X2  H4  Pm".
-```
 
 2. **Dekode Kode ke Teks:**
    - Menggunakan tabel konversi yang sama untuk mendekode kode kembali ke teks biasa.
@@ -299,26 +297,25 @@ Transform or also translating or decoding or convert or exchange your one-to-ano
 
 4. **Konversi dan Penyusunan Data Biologis:**
    - Mengonversi data biologis seperti sekuens DNA atau RNA ke dalam kode khusus, dan kemudian menerjemahkannya untuk analisis lebih lanjut.
-   - Contoh: Mengonversi sekuens DNA "AGCTTACG" menjadi "k1 n7 u3 p0 p0 k1 u3 n7".
+   - Contoh: Mengonversi sekuens DNA:
+ "AGCTTACG" menjadi "k1  n7  u3  p0  p0  k1  u3  n7".
 
 5. **Konversi Data Simbolik:**
    - Mengonversi data simbolik seperti representasi virus atau struktur kimia ke dalam kode khusus untuk tujuan penelitian atau enkripsi.
-   - Contoh: Mengonversi sekuens genetik SARS-CoV-2 menjadi "k1 n7 u3 p0 p0 k1 u3 n7".
+   - Contoh: Mengonversi sekuens genetik SARS-CoV-2 menjadi "k1  n7  u3  p0  p0  k1  u3  n7".
 
 6. **Sinkronisasi Data Waktu dan Tanggal:**
    - Menyediakan fitur sinkronisasi waktu dan tanggal dunia untuk memastikan data yang dikonversi selalu akurat dan up-to-date.
 
 7. **Fitur Tambahan dan Lainnya:**
    - Kemampuan Encryption, Decryption, Encoding, Decoding, Coding, Recoding, Complie, Decompile serta penguraian dan pengekstraksian file, meta, metadata, file extension, data, datasets, content, data content from one-another languages ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0.
+
+## Kemampuan lainnya:
    - Kemampuan kalkulasi dan pemrograman untuk analisis data yang akurat, tepat serta lebih kompleks.
    - Konversi dan Dikonversi ke dalam data: fisik, alamat fisik, kode fisik, data fisik, data, data biologis, data genetik, data organik, serta data-data lainnya menjadi sebuah data dengan kode khusus atau sekuens ke dalam data dengan kode khusus ke dalam Reyhan Jr. Injector, kemudian menerjemahkannya untuk analisa lanjutan
    - Konversi dan Dikonversi data dengan kode khusus atau sequens: fisik, alamat fisik, kode fisik, data fisik, data, data biologis, data genetik, data organik, serta data-data lainnya menjadi sebuah data dengan kode khusus atau sekuens ke dalam data dengan kode khusus ke dalam Reyhan Jr. Injector, kemudian menerjemahkannya untuk analisa lanjutan
    - Konversi dan Dikonversi Data Makhluk dan Makhluk Hidup ke kode data Reyhan Jr. Injector kemudian di artikan oleh Reyhan Jr. Injector / Reyhan Jr. Injector 2.0.
 
-
-### Contoh Hasil Teks kalimat "Saya Reyhan alias Reyhan Jr." ke Kode :
-Hasil dikonversinya menjadi: "h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq"
-```
 
 ### Contoh Hasil Konversi kode ke data dengan input data fisik:
 - Hewan: "Elephant"
