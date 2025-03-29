@@ -1,10 +1,6 @@
-# Reyhan Jr. Physical and Physical Address Injector and Converter/Exchange Code 2.0
-
-Reyhan Jr. Injector 2.0 by Reyhan alias Reyhan Jr. is now pairing with AI-Ready and Machines-Ready.
-
 ```code
-Name Long = Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
-Name Short = Reyhan Jr. Injector or Reyhan Jr. Injector 2.0 or Injector 2.0
+Name Long: Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
+Name Short: Reyhan Jr. Injector or Reyhan Injector 2.0 or Injector 2.0
 
 
 
@@ -212,12 +208,11 @@ Hasil dikonversinya ke format Reyhan Jr. Injector 2.0 menjadi:
 "h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq"
 ```
 
-These conversion uses the tables provided in the README.md, file to map each character to its interaction corresponding code.
+These conversion uses the tables provided in the README.md, file to map each character to its interaction interactive corresponding code.
 
-```code
-Transform or translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by any formats purpose by our powerful tools by processing with on their own platform with their own instrument to used.
 
-```## It's by Wonderfully made hosting by ❤
+
+## It's by Wonderfully made hosting by ❤
 TODO: Di hosting dengan hati yang penuh dengan mengasihi dan menyayangi dengan sedikit hati dan cinta.
 
 # Introduction about Reyhan :
@@ -232,7 +227,7 @@ TODO: Guide users through getting your code up and running to keep everything is
 2.	Software dependencies
 3.	Latest releases
 4.	References
-5. Act and Purposes
+5.   Act and Purposes
 
 ## Reyhan Jr. Injector 2.0 , how it works,
 ```code
@@ -280,81 +275,11 @@ This repository includes various folders and configuration files that serve diff
 TODO: Describe and show how to build, deploy your code and run the tests. 
 
 
-| 24 | § | 2B |
-| 25 | ∆ | 3C |
-| 26 | £ | 4D |
-| 27 | ¢ | 5E |
-| 28 | √ | Xr |
-| 29 | ꓺ | 1X |
-| 30 | .../()/(...)//$id/{}/(.) | 2Y |
-| 31 | ◟ | 3Z |
-| 32 | ‾ | 4a |
-| 33 | Screen/Keyboard/Mouse/Headphone/Magnifying Glass Virtual | %b |
-| 34 | @ | Ad |
-| 35 | # | Bc |
-| 36 | $ | Cn |
-| 37 | _ | De |
-| 38 | & | Eb |
-| 39 | - | Fo |
-| 40 | + | Gf |
-| 41 | ( | Hy |
-| 42 | ) | Ia |
-| 43 | / | Jg |
-| 44 | * | Kz |
-| 45 | "" | Lh |
-| 46 | ' | Mi |
-| 47 | : | Nj |
-| 48 | ; | Ok |
-| 49 | ! | Pm |
-| 50 | ? | Ql |
-| 51 | , | Ru |
-| 52 | . | Sq |
-| 53 | ~ | Tp |
-| 54 | ` | Ut |
-| 55 | | | Vs |
-| 56 | · | Wx |
-| 57 | Scan/Exact Value/Open/Searching/First Scan | DD |
-| 58 | π | Yv |
-| 59 | ÷ | Zw |
-| 60 | × | 1A |
-| 61 | Browse/Load Address/Yes/New/New Window/Attach | HH |
-| 62 | History/Experience/Auto Assemble | II |
-| 63 | Play/Replay | ZZ |
-| 64 | Pause/Hold/Block/Terminate | KK |
-| 65 | Stop/Speed Up/Close/Cancel/No/Exit/Format | LL |
-| 66 | Forward/Analyze/Add to Codelist/Alignment | NN |
-| 67 | Backward/Undo/Previous | OO |
-| 68 | Record/Record Physical Address/Auto Save/Saved Address | PP |
-| 69 | Online/Connect/Connected/Link/Url | SS |
-| 70 | Offline/Disconnect/Disconnected | TT |
-| 71 | Streaming/Live/Live Streaming/Internet/Network/Communication | UU |
-| 72 | Cut/Copy/Paste/Clear/Short/Filter/Format/Contents/Erase | YY |
-| 73 | Read/Address/Editor/Modify/Executable/Execute/Importing | aZ |
-| 74 | Write/Writable/Repacked/Replicate/Duplicate Address | bY |
-| 75 | Inject/Inject Physical Address/Inject Physical Memory Address/Render | cX |
-| 76 | Replace/Change/Change Physical Address | dW |
-| 77 | Lock/Freeze Address/Backup/Patch | eV |
-| 78 | Value/Address/Value Memory Address/Value Physical Address | fU |
-| 79 | F1 | gT |
-| 80 | F2 | hS |
-| 81 | F3 | iR |
-| 82 | F4 | jQ |
-| 83 | F5 | kP |
-| 84 | F6 | lO |
-| 85 | F7 | mN |
-| 86 | F8 | nM |
-| 87 | F9 | oL |
-| 88 | F10 | pQ |
-| 89 | F11 | qJ |
-| 90 | F12 | rI |
-| 91 | Print/Extract/Printing/Translating/Decoding/Unpacked/Exporting | sH |
-| 92 | Code/Codes/Coding/Language/Function/Programming Language | tG |
-| 93 | In/Input/Inside/Zoom In/Find Assembly Code/Find Memory | uF |
-| 94 | Out/Output/Outside/Zoom Out | vE |
-| 95 | Result/Rescan/Next Scan/Undo Scan/Index/Location/Path/Find/Base 
+```code
+Transform or translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by any formats purpose by our powerful tools by processing with on their own platform with their own instrument to used.
 ```
 
-#### Berikut contoh sampel serta berbagai Fitur-fitur:
+#### Berikut contoh sampel serta berbagai Fitur-fitur lain di gunakan dalam berbagai kebutuhan dan keperluan lainnya di dalam penggunaan Reyhan Jr. Injector 2.0 :
 1. **Konversi Teks ke Kode:**
    - Menggunakan tabel konversi untuk mengonversi teks biasa ke dalam kode khusus.
    - Contoh: Mengonversi "Hello World!" menjadi:
@@ -400,8 +325,8 @@ Hasil Konversi Hewan: t5  X2  T5  J1  H4  J1  C4  E0
 Hasil Konversi Tumbuhan: Y8  W5  h9  T5  FF  K6  X2  W5  Y8  W5  E0  r3
 ```
 
-## Berikutnya contoh nyata dari konversi data fisik tubuh manusia:
-Menggunakan format kode yang digunakan oleh Reyhan Jr. Injector 2.0, Menggunakan data biologis seperti sekuens DNA atau RNA. Berbagai kode bahasa untuk mengonversi sekuens DNA, RNA serta lainnya menjadi kode Menggunakan format kode yang digunakan oleh Reyhan Jr. Injector 2.0.
+## Untuk memberikan contoh nyata dari konversi data fisik tubuh manusia ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0, kita dapat menggunakan data biologis seperti sekuens DNA atau RNA. 
+Berikut adalah contoh berbagai kode bahasa untuk mengonversi sekuens DNA, RNA serta lainnya menjadi kode menggunakan Reyhan Jr. Injector 2.0.
 
 ### Konversi untuk Nukleotida DNA
 Berikut contoh ini, kita akan menggunakan konversi sederhana untuk empat nukleotida DNA:
@@ -418,7 +343,6 @@ Berikut hasil dikonversikan ke format Reyhan Jr. Injector 2.0 :
 | 3 | C | u3 |
 | 4 | G | n7 |
 ```
-
 
 Dengan pendekatan ini, Anda dapat konversi dan dikonversi berbagai macam jenis data, data biologis, data Genetik, data Organik atau fisik serta berbagai alamat fisik dan berbagai lainnya ke dalam format kode yang digunakan oleh Reyhan Jr. Injector 2.0.
 Proses ini di dukung zero-timeouts dan terus berlangsung konversi dan dikonversi meski pohon keluarga, dan observable universe.
