@@ -67,7 +67,7 @@ Reyhan Jr. Injector 2.0 by Reyhan alias Reyhan Jr. is now pairing with AI-Ready 
 
 ```code
 Name Long = Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
-Name Short = Reyhan Jr. Injector or Reyhan Jr. Injector 2.0
+Name Short = Reyhan Jr. Injector or Reyhan Jr. Injector 2.0 or Injector 2.0
 
 
 
