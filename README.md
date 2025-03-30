@@ -2,11 +2,15 @@ Reyhan Jr. Physical Address and Physical Address Injector and Converter/Exchange
 ```code
 Name Long: Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
 Name Short: Reyhan Jr. Injector or Reyhan Injector 2.0 or Injector 2.0
+Description: Dibawah berikut ini adalah kode khusus yang terdiri dari Alphabet, Numeric, dan Symbolic yang merupakan sebagai untuk mengartikan bahasa,
+dimulai dari Alphabet berjumlah 54 buah, Numeric dengan 11 buah dan Symbolic berjumlah 115 buah. Masing masing memiliki arti,  fungsi, dan data kode khusus
+yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode yang digunakan Reyhan Jr. Injector 2.0 dengan tepat, benar dan terkoreksi.
 
 
 
-Alphabet: 54 Row
-| Number | Function | Converter / Exchange |
+
+1. Alphabet: 
+| Number | Function | Converter or Exchange |
 | 1 | A | k1 |
 | 2 | B | x2 |
 | 3 | C | u3 |
@@ -64,8 +68,8 @@ Alphabet: 54 Row
 
 
 
-Numeric = 11 Row
-| Number | Function | Converter / Exchange |
+2. Numeric:
+| Number | Function | Converter or Exchange |
 | 1 | 0 | WW |
 | 2 | 1 | GG |
 | 3 | 2 | MM |
@@ -80,8 +84,8 @@ Numeric = 11 Row
 
 
 
-# Symbolic: 115 Row
-| Number | Function | Converter / Exchange |
+3. Symbolic:
+| Number | Function | Converter or Exchange |
 | 1 | Alphabet/Word/QWORD/DWORD/Float/String/Text/Array of String | 5v |
 | 2 | Numeric/Number/Decimal/Byte/HEX/BIN/Array of Byte | 6w |
 | 3 | Symbolic/Symbol/View/View Physical Address/View Memory Address | 7x |
@@ -199,25 +203,23 @@ Numeric = 11 Row
 | 115 | € | 6F |
 
 
-Contoh Penggunaan  Reyhan Jr. Injector 2.0 :
+Contoh Penggunaannya dan dikonversinya ke format kode yang digunakan Reyhan Jr. Injector 2.0 :
 1. Kita menjadikan contoh "Hello World"
-
 Hasil dikonversinya ke format kode yang digunakan Reyhan Jr. Injector 2.0 menjadi: 
 "y8  T5  X2  X2  W5  FF  r3  W5  Y8  X2  H4  Pm"
 
-2. Contoh dengan "Saya Reyhan alias Reyhan Jr." 
+2. Contoh misalnya "Saya Reyhan alias Reyhan Jr." 
 Hasil dikonversinya ke format kode yang digunakan Reyhan Jr. Injector 2.0 menjadi: 
 "h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq"
+
+Mulailah melatih diri selalu dengan membuat contoh, dengan soal berdasarkan deskripsi dan contoh penggunaan konversi dan diskonversi ke dalam format yang digunakan dalam Reyhan Jr. Injector 2.0
+
+Contoh Misalnya: auto-biography, data diri, pohon keluarga, rekaman medis, dan lainnya.
+These conversion uses the tables provided in the README.md, file to map each character to its interaction interactive corresponding code and also for
+Transform or translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by any formats purpose by our powerful tools by processing with on their own platform with your or their own language can to used.
 ```
 
-These conversion uses the tables provided in the README.md, file to map each character to its interaction interactive corresponding code.
-
-
-```code
-Transform or translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by any formats purpose by our powerful tools by processing with on their own platform with their own instrument to used.
-```
-
-## Hosted! by Wonderfully made hosting by ❤
+## It's Hosted! by Wonderfully made hosting by ❤
 TODO: Di hosting dengan hati yang penuh dengan mengasihi dan menyayangi dengan sedikit hati dan cinta.
 
 # Introduction about Reyhan :
@@ -232,7 +234,7 @@ TODO: Guide users through getting your code up and running to keep everything is
 2.	Software dependencies
 3.	Latest releases
 4.	References
-5. Act and Purposes
+5.   Act and Purposes
 
 ## Reyhan Jr. Injector 2.0 , how it works,
 ```code
@@ -255,7 +257,7 @@ These may so executed and contains of folders, file, and system configuration fi
 
 This repository includes various folders and configuration files that serve different purposes. The primary languages used in this repository are HTML and Jupyter Notebook or if else feel it compatible with your or their own languages it can used.
 
-## How to use this project, for example, if your Instrument as Jupyter Notebook:
+## How to use this project, for example, if your language as Jupyter Notebook:
 1. Clone the repository to your or their own:
     ```sh
     git clone https://github.com/reyhan-jr-injector/2.0
@@ -264,11 +266,11 @@ This repository includes various folders and configuration files that serve diff
     ```sh
     cd reyhan-jr-injector.github.io/2.0/
     ```
-3. Open the Jupyter Notebook file using Jupyter Notebook or JupyterLab or python or supporting opening ".md" :
-    ```sh
-    opening "README.md"
+3. Open the Jupyter Notebook file using Jupyter Notebook or JupyterLab or python or language supporting opening "README.md" :
+    ```sh 
+opening "README.md"
     ```
-4. Run the cells in the notebook or your or their own languages to verify that it works, accurate and correctly.
+4. Run the all cells in the notebook or language you or their own to verify that it works, accurate and correctly.
 
 ## Additional
 ```code
@@ -292,13 +294,17 @@ TODO: Describe and show how to build, deploy your code and run the tests.
 
 3. **Konversi Kode ke Bahasa Manusia:**
    - Menerjemahkan kode yang sudah dikonversi ke dalam berbagai bahasa manusia, seperti Minangkabau, Betawi, Batak, Jawa, Sunda, dan lainnya.
+   - Contoh: Mengonversi "k1  n7  u3  p0  p0  k1  u3  n7" menjadi "Aku cinta kamu" dalam bahasa Jawa.
 
 4. **Konversi dan Penyusunan Data Biologis:**
    - Mengonversi data biologis seperti sekuens DNA atau RNA ke dalam kode khusus, dan kemudian menerjemahkannya untuk analisis lebih lanjut.
+   - Contoh: Mengonversi sekuens DNA:
+ "AGCTTACG" menjadi "k1  n7  u3  p0  p0  k1  u3  n7".
 
 5. **Konversi Data Simbolik:**
    - Mengonversi data simbolik seperti representasi virus atau struktur kimia ke dalam kode khusus untuk tujuan penelitian atau enkripsi.
-   - Contoh: Mengonversi sekuens genetik.
+   - Contoh: Mengonversi sekuens genetik SARS-CoV-2 menjadi "h9 k1 v8 h9 Fo u3 W5 i2 Fo MM".
+
 6. **Sinkronisasi Data Waktu dan Tanggal:**
    - Menyediakan fitur sinkronisasi waktu dan tanggal dunia untuk memastikan data yang dikonversi selalu akurat dan up-to-date.
 
@@ -353,7 +359,9 @@ terdengar tidak lazim, tetapi mari kita eksplorasi beberapa kemungkinan:
 
 ● Ekstraksi Data: Bayangkan jika Injector 2.0 digunakan untuk mengekstrak data
 
-dari berbagai sumber online seperti forum, media sosial, dan situs web.
+dari berbagai sumber online seperti forum, media sosial, dan situs web. Data ini
+
+kemudian dapat digunakan untuk menganalisis tren bahasa
 
 
 ## How so?
