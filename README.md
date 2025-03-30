@@ -217,7 +217,7 @@ These conversion uses the tables provided in the README.md, file to map each cha
 Transform or translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by any formats purpose by our powerful tools by processing with on their own platform with their own instrument to used.
 ```
 
-## It's by Wonderfully made hosting by ❤
+## Hosted! by Wonderfully made hosting by ❤
 TODO: Di hosting dengan hati yang penuh dengan mengasihi dan menyayangi dengan sedikit hati dan cinta.
 
 # Introduction about Reyhan :
@@ -232,7 +232,7 @@ TODO: Guide users through getting your code up and running to keep everything is
 2.	Software dependencies
 3.	Latest releases
 4.	References
-5.   Act and Purposes
+5. Act and Purposes
 
 ## Reyhan Jr. Injector 2.0 , how it works,
 ```code
@@ -256,7 +256,7 @@ These may so executed and contains of folders, file, and system configuration fi
 This repository includes various folders and configuration files that serve different purposes. The primary languages used in this repository are HTML and Jupyter Notebook or if else feel it compatible with your or their own languages it can used.
 
 ## How to use this project, for example, if your Instrument as Jupyter Notebook:
-1. Clone the repository:
+1. Clone the repository to your or their own:
     ```sh
     git clone https://github.com/reyhan-jr-injector/2.0
     ```
@@ -264,11 +264,11 @@ This repository includes various folders and configuration files that serve diff
     ```sh
     cd reyhan-jr-injector.github.io/2.0/
     ```
-3. Open the Jupyter Notebook file using Jupyter Notebook or JupyterLab or python or supporting opening ".ipynb" :
+3. Open the Jupyter Notebook file using Jupyter Notebook or JupyterLab or python or supporting opening ".md" :
     ```sh
-    jupyter notebook "Reyhan Jr. Injector 2.0.ipynb"
+    opening "README.md"
     ```
-4. Run the cells in the notebook to verify that it works, accurate and correctly.
+4. Run the cells in the notebook or your or their own languages to verify that it works, accurate and correctly.
 
 ## Additional
 ```code
