@@ -11,7 +11,7 @@ yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode ya
 
 
 1. Alphabet: 
-| Number | Function | Converter or Exchange |
+| Number | Function | Code Converter or Exchange |
 | 1 | A | k1 |
 | 2 | B | x2 |
 | 3 | C | u3 |
@@ -70,7 +70,7 @@ yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode ya
 
 
 2. Numeric:
-| Number | Function | Converter or Exchange |
+| Number | Function | Code Converter or Exchange |
 | 1 | 0 | WW |
 | 2 | 1 | GG |
 | 3 | 2 | MM |
@@ -86,7 +86,7 @@ yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode ya
 
 
 3. Symbolic:
-| Number | Function | Converter or Exchange |
+| Number | Function | Code Converter or Exchange |
 | 1 | Alphabet/Word/QWORD/DWORD/Float/String/Text/Array of String | 5v |
 | 2 | Numeric/Number/Decimal/Byte/HEX/BIN/Array of Byte | 6w |
 | 3 | Symbolic/Symbol/View/View Physical Address/View Memory Address | 7x |
