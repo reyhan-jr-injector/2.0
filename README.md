@@ -235,7 +235,7 @@ TODO: Guide users through getting your code up and running to keep everything is
 2.	Software dependencies
 3.	Latest releases
 4.	References
-5.   Act and Purposes
+5. Act and Purposes
 
 ## Reyhan Jr. Injector 2.0 , how it works,
 ```code
@@ -267,11 +267,11 @@ This repository includes various folders and configuration files that serve diff
     ```sh
     cd reyhan-jr-injector.github.io/2.0/
     ```
-3. Open the Jupyter Notebook file using Jupyter Notebook or JupyterLab or python or language supporting opening "README.md" :
-    ```sh 
-opening "README.md"
+3. Open the Jupyter Notebook file using Jupyter Notebook or JupyterLab or python or language supporting Markdown
+    ```sh
+make "README.md"
     ```
-4. Run the all cells in the notebook or language you or their own to verify that it works, accurate and correctly.
+5. Run the all cells in the notebook or language you or their own to verify that it works, accurate and correctly.
 
 ## Additional
 ```code
