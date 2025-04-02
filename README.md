@@ -122,7 +122,7 @@ yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode ya
 | 30 | .../()/(...)//$id/{}/(.) | 2Y |
 | 31 | ◟ | 3Z |
 | 32 | ‾ | 4a |
-| 33 | Screen/Keyboard/Mouse/Headphone/Magnifying Glass Virtual | %b |
+| 33 | Screen/Keyboard/Mouse/Headphone/Magnifying Glass Virtual | 5b |
 | 34 | @ | Ad |
 | 35 | # | Bc |
 | 36 | $ | Cn |
