@@ -259,7 +259,7 @@ TODO: Guide users through getting your code up and running to keep everything is
 
 
 ## Repository Information
-These may so executed and contains of folders, file, and system configuration files.
+These may so writable and executable with contains of folders, file, and system configuration files.
 
 ## Repository Overview
 
