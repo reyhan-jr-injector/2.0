@@ -206,6 +206,9 @@ yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode ya
 | 114 | ¥ | 7G |
 | 115 | € | 6F |
 
+Features:
+Auto registration, name, labelling, tagging, unique identification, stamps, logo.
+Fiturnya digunakan agar tidak terjadi kesalahan dan kesamaan serta dapat menguraikan dan mengekstraksi nya lebih nyata dan akurat di setiap jenis masing masing konversi nya.
 
 Contoh Penggunaannya dan dikonversinya ke format kode yang digunakan Reyhan Jr. Injector 2.0 :
 1. Kita menjadikan contoh "Hello World"
