@@ -220,11 +220,12 @@ Hasil dikonversinya ke format kode yang digunakan Reyhan Jr. Injector 2.0 menjad
 Hasil dikonversinya ke format kode yang digunakan Reyhan Jr. Injector 2.0 menjadi: 
 "h9  J1  R5  J1  FF  v8  T5  R5  u8   J1 C4   FF  J1  X2   L9   J1  O9   FF  v8  T5   R5   u8   J1  C4  FF  W0  Y8  Sq"
 
-Mulailah melatih diri selalu dengan membuat contoh, dengan soal berdasarkan deskripsi dan contoh penggunaan konversi dan diskonversi ke dalam format yang digunakan dalam Reyhan Jr. Injector 2.0
+Mulailah melatih diri sendiri mengekplorasi dan discovery function fitur lainnya dengan selalu membuat contoh dari dunia nyata, dengan soal dan jawaban berdasarkan deskripsi dan contoh penggunaan konversi dan diskonversi ke dalam format yang digunakan dalam Reyhan Jr. Injector 2.0
 
 Contoh Misalnya: auto-biography, data diri, pohon keluarga, rekaman medis, dan lainnya.
-These conversion uses the tables provided in the README.md, file to map each character to its interaction interactive corresponding code and also for
-Transform or translating or decoding or convert or exchange your one-to-another any documents or else into AI-ready-set by any formats purpose by our powerful tools by processing with on their own platform with your or their own language can to used.
+These conversion uses the tables provided in the README.md, file to map each character to its interaction corresponding code and also for used for recognize and
+‎Transform or translation or decoding or convert or exchange one-to-another any physical form or documents by any format into format used Reyhan Jr. Injector 2.0 with AI-ready by any formats form purpose by our powerful tools by processing with on your or their own platform, languages can to used.
+‎
 ```
 
 ## It's Hosted! by Wonderfully made hosting by ❤
