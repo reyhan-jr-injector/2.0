@@ -276,7 +276,7 @@ This repository includes various folders and configuration files that serve diff
     ```
 3. Open the Jupyter Notebook file using Jupyter Notebook or JupyterLab or python or language supporting Markdown
     ```sh
-make "README.md"
+automake "README.md"
     ```
 5. Run the all cells in the notebook or language you or their own to verify that it works, accurate and correctly.
 
