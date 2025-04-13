@@ -231,6 +231,119 @@ These conversion uses the tables provided in the README.md, file to map each cha
 ‎
 ```
 
+## Virtual Keyboard
+
+ 
+| Key         | Function                                  |
+|-------------|-------------------------------------------|
+| Esc         | Escape                                    |
+| F1-F12      | Function Keys                             |
+| Print Scrn  | Print Screen                              |
+| Scroll Lock | Scroll Lock                               |
+| Pause Break | Pause/Break                               |
+| `~ /        | Grave Accent / Tilde                      |
+| 1 !         | One / Exclamation Point                   |
+| 2 @         | Two / At Symbol                           |
+| 3 #         | Three / Hash Symbol                       |
+| 4 $         | Four / Dollar Sign                        |
+| 5 %         | Five / Percent Sign                       |
+| 6 ^         | Six / Caret                               |
+| 7 &         | Seven / Ampersand                         |
+| 8 * | Eight / Asterisk                                  |
+| 9 (         | Nine / Open Parenthesis                   |
+| 0 )         | Zero / Close Parenthesis                  |
+| - _         | Hyphen / Underscore                       |
+| = +         | Equals / Plus Sign                        |
+| Backspace   | Backspace                                 |
+| Insert      | Insert                                    |
+| Home        | Home                                      |
+| Page Up     | Page Up                                   |
+| Num Lock    | Numeric Lock                              |
+| /           | Slash                                     |
+| * (Numpad)  | Asterisk (Multiply)                       |
+| - (Numpad)  | Hyphen (Subtract)                         |
+| Tab         | Tab                                       |
+| Q           | Q                                         |
+| W           | W                                         |
+| E           | E                                         |
+| R           | R                                         |
+| T           | T                                         |
+| Y           | Y                                         |
+| U           | U                                         |
+| I           | I                                         |
+| O           | O                                         |
+| P           | P                                         |
+| [ {         | Open Bracket / Open Brace                 |
+| ] }         | Close Bracket / Close Brace               |
+| \ |         | Backslash / Vertical Bar                  |
+| Delete      | Delete                                    |
+| End         | End                                       |
+| Page Down   | Page Down                                 |
+| 7 (Numpad)  | Seven                                     |
+| 8 (Numpad)  | Eight                                     |
+| 9 (Numpad)  | Nine                                      |
+| + (Numpad)  | Plus Sign (Add)                           |
+| Caps Lock   | Caps Lock                                 |
+| A           | A                                         |
+| S           | S                                         |
+| D           | D                                         |
+| F           | F                                         |
+| G           | G                                         |
+| H           | H                                         |
+| J           | J                                         |
+| K           | K                                         |
+| L           | L                                         |
+| ; :         | Semicolon / Colon                         |
+| ' "         | Apostrophe / Quotation Mark               |
+| Enter       | Enter / Return                            |
+| 4 (Numpad)  | Four                                      |
+| 5 (Numpad)  | Five                                      |
+| 6 (Numpad)  | Six                                       |
+| Shift Left  | Left Shift                                |
+| Z           | Z                                         |
+| X           | X                                         |
+| C           | C                                         |
+| V           | V                                         |
+| B           | B                                         |
+| N           | N                                         |
+| M           | M                                         |
+| , <         | Comma / Less Than                         |
+| . >         | Period / Greater Than                     |
+| / ?         | Forward Slash / Question Mark             |
+| Shift Right | Right Shift                               |
+| Up Arrow    | Up Arrow                                  |
+| 1 (Numpad)  | One                                       |
+| 2 (Numpad)  | Two                                       |
+| 3 (Numpad)  | Three                                     |
+| Enter (Numpad)| Enter (Numeric Keypad)                  |
+| Ctrl Left   | Left Control                              |
+| Win Left    | Left Windows Key                          |
+| Alt Left    | Left Alt                                  |
+| Spacebar    | Spacebar                                  |
+| Alt Right   | Right Alt                                 |
+| Win Right   | Right Windows Key (Menu Key)              |
+| Ctrl Right  | Right Control                             |
+| Left Arrow  | Left Arrow                                |
+| Down Arrow  | Down Arrow                                |
+| Right Arrow | Right Arrow                               |
+| 0 (Numpad)  | Zero                                      |
+| . (Numpad)  | Decimal Point                             |
+
+
+
+
+## Virtual Mouse
+
+ 
+| Key         | Function                                             |
+|-------------|------------------------------------------------------|
+| Left Click  | Primary Selection, Activation                        |
+| Right Click | Context Menu                                         |
+| Scroll Wheel| Vertical Scrolling up and down, Middle Click (often) |
+
+
+```
+
 ## It's Hosted! by Wonderfully made hosting by ❤
 TODO: Di hosting dengan hati yang penuh dengan mengasihi dan menyayangi dengan sedikit hati dan cinta.
 
