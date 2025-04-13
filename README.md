@@ -4,9 +4,8 @@ Bagaimana cara kerjanya dan fungsinya?
 New update:
 Name Long: Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
 Name Short: Reyhan Jr. Injector or Reyhan Injector 2.0 or Injector 2.0
-Description: Dibawah berikut ini adalah kode khusus yang terdiri dari Alphabet, Numeric, dan Symbolic yang merupakan sebagai untuk mengartikan bahasa,
-dimulai dari Alphabet berjumlah 54 buah, Numeric dengan 11 buah dan Symbolic berjumlah 115 buah. Masing masing memiliki arti,  fungsi, dan data kode khusus
-yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode yang digunakan Reyhan Jr. Injector 2.0 dengan tepat, benar dan terkoreksi.
+Description: Dibawah berikut ini adalah kode khusus yang terdiri dari Alphabet, Numeric, dan Symbolic yang merupakan sebagai alat untuk menerjemahkan dan mengartikan sebuah bahasa, kode, simbol, dan algoritma kedalam bahasa manusia, Reyhan Jr. Injector 2.0 berisikan kode khusus, untuk Alfabet atau Alphabet berjumlah 54, Nomor atau Numeric dengan 11 dan Simbol atau Symbolic yang berjumlah 115. Masing masing memiliki arti,  fungsi, dan data kode khusus
+yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode yang digunakan Reyhan Jr. Injector 2.0 dengan akurat dan tepat.
 
 
 
@@ -210,6 +209,10 @@ yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode ya
 Features:
 Auto registration, name, labelling, tagging, unique identification, stamps, checksum real SHA-256 unique identification, logo.
 Fiturnya digunakan agar tidak terjadi kesalahan dan kesamaan serta dapat menguraikan dan mengekstraksi nya lebih nyata dan akurat di setiap jenis masing masing konversi nya.
+
+Kegunaannya:
+menerjemahkan dan mengartikan sebuah bahasa, kode, simbol, dan algoritma kedalam bahasa manusia, serta dengan fitur fungsi lainnya.
+
 
 Contoh Penggunaannya dan dikonversinya ke format kode yang digunakan Reyhan Jr. Injector 2.0 :
 1. Kita menjadikan contoh "Hello World"
