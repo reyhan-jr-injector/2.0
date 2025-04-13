@@ -204,12 +204,12 @@ yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode ya
 | 114 | ¥ | 7G |
 | 115 | € | 6F |
 
-Features:
+## Features:
 Auto registration, name, labelling, tagging, unique identification, stamps, checksum real SHA-256 unique identification, logo.
 Fiturnya digunakan agar tidak terjadi kesalahan dan kesamaan serta dapat menguraikan dan mengekstraksi nya lebih nyata dan akurat di setiap jenis masing masing konversi nya.
 
 
-Contoh Penggunaannya dan dikonversinya ke format kode yang digunakan Reyhan Jr. Injector 2.0 :
+### Contoh Penggunaannya dan dikonversinya ke format kode yang digunakan Reyhan Jr. Injector 2.0 :
 1. Kita menjadikan contoh "Hello World"
 Hasil dikonversinya ke format kode yang digunakan Reyhan Jr. Injector 2.0 menjadi: 
 "y8  T5  X2  X2  W5  FF  r3  W5  Y8  X2  H4  Pm"
@@ -220,11 +220,12 @@ Hasil dikonversinya ke format kode yang digunakan Reyhan Jr. Injector 2.0 menjad
 
 Mulailah melatih diri sendiri mengekplorasi dan discovery function fitur lainnya dengan selalu membuat contoh dari dunia nyata, dengan soal dan jawaban berdasarkan deskripsi dan contoh penggunaan konversi dan diskonversi ke dalam format yang digunakan dalam Reyhan Jr. Injector 2.0
 
-Contoh Misalnya: auto-biography, data diri, pohon keluarga, rekaman medis, dan lainnya.
+## Contoh Misalnya: auto-biography, data diri, pohon keluarga, rekaman medis, dan lainnya.
+```code
 These conversion uses the tables provided in the README.md, file to map each character to its interaction corresponding code and also for used for recognize and
 ‎Transform or translation or decoding or convert or exchange one-to-another any physical form or documents by any format into format used Reyhan Jr. Injector 2.0 with AI-ready by any formats form purpose by our powerful tools by processing with on your or their own platform, languages can to used.
-‎
-```
+‎```
+
 
 ## Virtual Keyboard for Reyhan Jr. Injector 2.0
 
