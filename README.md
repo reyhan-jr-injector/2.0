@@ -370,6 +370,7 @@ TODO: Guide users through getting your code up and running to keep everything is
 ```code
 - Creating new Virtual Environtment for Reyhan Jr. Injector 2.0
 - Building and Initializing Workdesk
+- Keep every environment of Reyhan Jr. Injector 2.0 without cross-contamination and broken or damages
 ```
 
 
