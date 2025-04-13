@@ -4,7 +4,7 @@ Bagaimana cara kerjanya dan fungsinya?
 New update:
 Name Long: Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
 Name Short: Reyhan Jr. Injector or Reyhan Injector 2.0 or Injector 2.0
-Description: Dibawah berikut ini adalah kode khusus yang terdiri dari Alphabet, Numeric, dan Symbolic yang merupakan sebagai alat untuk menerjemahkan dan mengartikan sebuah bahasa, kode, simbol, dan algoritma kedalam bahasa manusia, Reyhan Jr. Injector 2.0 berisikan kode khusus, untuk Alfabet atau Alphabet berjumlah 54, Nomor atau Numeric dengan 11 dan Simbol atau Symbolic yang berjumlah 115. Masing masing memiliki arti,  fungsi, dan data kode khusus
+Description: Dibawah berikut ini adalah kode khusus yang terdiri dari Alphabet, Numeric, dan Symbolic yang merupakan sebagai alat untuk berbagai macam hal, termasuk menerjemahkan dan mengartikan sebuah bahasa, kode, program, alamat fisik, fisik, simbol, dan algoritma dan lainnya untuk dijadikan kedalam bahasa yang dapat dibaca oleh manusia, Reyhan Jr. Injector 2.0 berisikan kode khusus berupa Alfabet atau Alphabet berjumlah 54, Nomor atau Numeric dengan 11 dan Simbol atau Symbolic yang berjumlah 115. Masing masing memiliki arti,  fungsi, dan data kode khusus
 yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode yang digunakan Reyhan Jr. Injector 2.0 dengan akurat dan tepat.
 
 
@@ -250,14 +250,14 @@ TODO: Guide users through getting your code up and running to keep everything is
 
 ## Reyhan Jr. Injector 2.0 , how it works,
 ```code
-1. Injection physical address and physical code.
+1. Injection process of physical address and physical memory address code.
 2. Starting first scanning.
-3. View browse physical address and code as HEX by running by realtime
+3. View browse physical address and code as HEX then convert into format Reyhan Jr. Injector 2.0 by running by realtime
 4. AI-ready and Machines-ready for todo translating, decoding, listening, recognize, observe, understanding, knowing, convert, exchange, and transformation the code to our own dialect or languages by realtime use Reyhan Jr. Injector 2.0
 ```
 ## How we do before started Reyhan Jr. Injector 2.0?
 ```code
-- Creating Environtment for Reyhan Jr. Injector 2.0
+- Creating new Virtual Environtment for Reyhan Jr. Injector 2.0
 - Building and Initializing Workdesk
 ```
 
