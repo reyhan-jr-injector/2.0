@@ -9,7 +9,6 @@ yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode ya
 
 
 
-
 1. Alphabet: 
 | Number | Function | Code Converter or Exchange |
 |---|---|---|  
@@ -231,7 +230,7 @@ These conversion uses the tables provided in the README.md, file to map each cha
 ‎
 ```
 
-## Virtual Keyboard
+## Virtual Keyboard for Reyhan Jr. Injector 2.0
 
  
 | Key         | Function                                  |
@@ -332,7 +331,7 @@ These conversion uses the tables provided in the README.md, file to map each cha
 
 
 
-## Virtual Mouse
+## Virtual Mouse for Reyhan Jr. Injector 2.0
 
  
 | Key         | Function                                             |
@@ -342,7 +341,6 @@ These conversion uses the tables provided in the README.md, file to map each cha
 | Scroll Wheel| Vertical Scrolling up and down, Middle Click (often) |
 
 
-```
 
 ## It's Hosted! by Wonderfully made hosting by ❤
 TODO: Di hosting dengan hati yang penuh dengan mengasihi dan menyayangi dengan sedikit hati dan cinta.
