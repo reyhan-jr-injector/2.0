@@ -1,15 +1,15 @@
 # Reyhan Jr. Physical Address and Physical Address Injector and Converter/Exchange Code 2.0
-Bagaimana cara kerjanya dan fungsinya?
+Berikut cara kerja, fungsinya dan serta yang lainnya:
 ```code
 New update:
 Name Long: Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
 Name Short: Reyhan Jr. Injector or Reyhan Injector 2.0 or Injector 2.0
-Description: Dibawah berikut ini adalah format kode khusus yang digunakan dalam format Reyhan Jr. Injector 2.0 terdiri dari Alphabet, Numeric, dan Symbolic yang merupakan sebagai alat untuk berbagai macam hal, termasuk menerjemahkan dan mengartikan sebuah bahasa, kode, program, alamat fisik, fisik, objek, simbol, dan algoritma dan serta lainnya untuk dijadikan kedalam bahasa yang dapat dibaca oleh manusia, Reyhan Jr. Injector 2.0 berisikan kode khusus berupa Alfabet atau Alphabet berjumlah 54, Nomor atau Numeric dengan 11 dan Simbol atau Symbolic yang berjumlah 115. Masing masing memiliki arti,  fungsi, dan data kode khusus
+Description: Dibawah berikut ini adalah format kode khusus yang digunakan dalam format Reyhan Jr. Injector 2.0 terdiri dari Alphabet, Numeric, dan Symbolic yang merupakan sebagai alat untuk berbagai macam hal, termasuk menerjemahkan dan mengartikan sebuah bahasa, kode, program, alamat fisik, fisik, objek, vital, simbol, dan algoritma dan serta lainnya untuk dijadikan kedalam bahasa yang dapat dibaca oleh manusia, Reyhan Jr. Injector 2.0 berisikan kode khusus berupa Alfabet atau Alphabet berjumlah 54, Nomor atau Numeric dengan 11 dan Simbol atau Symbolic yang berjumlah 115. Masing masing memiliki arti,  fungsi, dan data kode khusus
 yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode yang digunakan Reyhan Jr. Injector 2.0 dengan akurat dan tepat.
+```
 
 
-
-1. Alphabet: 
+## Alphabet :
 | Number | Function | Code Converter or Exchange |
 |---|---|---|  
 | 1 | A | k1 |
@@ -69,7 +69,7 @@ yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode ya
 
 
 
-2. Numeric:
+## Numeric :
 | Number | Function | Code Converter or Exchange |
 |---|---|---|  
 | 1 | 0 | WW |
@@ -85,8 +85,7 @@ yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode ya
 | 11 | 10 | VV |
 
 
-
-3. Symbolic:
+## Symbolic:
 | Number | Function | Code Converter or Exchange |
 |---|---|---|  
 | 1 | Alphabet/Word/QWORD/DWORD/Float/String/Text/Array of String | 5v |
