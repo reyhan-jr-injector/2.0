@@ -6,7 +6,7 @@ Name Long: Reyhan Jr. Physical Address Injector and Converter/Exchange Code 2.0
 Name Short: Reyhan Jr. Injector or Reyhan Injector 2.0 or Injector 2.0
 Description: Dibawah berikut ini adalah format kode khusus yang digunakan dalam format Reyhan Jr. Injector 2.0 terdiri dari Alphabet, Numeric, dan Symbolic yang merupakan sebagai alat untuk berbagai macam hal, termasuk menerjemahkan dan mengartikan sebuah bahasa, kode, program, alamat fisik, fisik, objek, vital, simbol, dan algoritma dan serta lainnya untuk dijadikan kedalam bahasa yang dapat dibaca oleh manusia, Reyhan Jr. Injector 2.0 berisikan kode khusus berupa Alfabet atau Alphabet berjumlah 54, Nomor atau Numeric dengan 11 dan Simbol atau Symbolic yang berjumlah 115. Masing masing memiliki arti,  fungsi, dan data kode khusus
 yang dipergunakan berbagai hal dan bidang yang di format ke dalam format kode yang digunakan Reyhan Jr. Injector 2.0 dengan akurat dan tepat.
-```
+
 
 
 ## Alphabet :
@@ -221,7 +221,7 @@ Hasil dikonversinya ke format kode yang digunakan Reyhan Jr. Injector 2.0 menjad
 Mulailah melatih diri sendiri mengekplorasi dan discovery function fitur lainnya dengan selalu membuat contoh dari dunia nyata, dengan soal dan jawaban berdasarkan deskripsi dan contoh penggunaan konversi dan diskonversi ke dalam format yang digunakan dalam Reyhan Jr. Injector 2.0
 
 ## Contoh Misalnya: auto-biography, data diri, pohon keluarga, rekaman medis, dan lainnya.
-```code
+
 These conversion uses the tables provided in the README.md, file to map each character to its interaction corresponding code and also for used for recognize and
 ‎Transform or translation or decoding or convert or exchange one-to-another any physical form or documents by any format into format used Reyhan Jr. Injector 2.0 with AI-ready by any formats form purpose by our powerful tools by processing with on your or their own platform, languages can to used.
 ‎```
